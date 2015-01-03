@@ -1,0 +1,15 @@
+1	manager	manager	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	90000	90000	OTHER	CD	_	1	num	_	_	_	_	_	_
+3	priject	priject	NOUN	NN	_	1	nn	_	_	_	P	_	_
+4	with	with	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+5	track	track	NOUN	NN	_	4	pobj	_	_	_	P	_	_
+6	car	car	NOUN	NN	_	5	nn	_	_	_	P	_	_
+7	leased	lease	VERB	VBN	_	6	amod	_	_	+/-NoF	P	U	U
+8	%	%	NOUN	NN	_	5	amod	_	_	_	P	_	_
+9	10	10	OTHER	CD	_	8	number	_	_	_	_	_	_
+10	promotion	promotion	NOUN	NN	_	5	nn	_	_	_	P	_	_
+11	fast	fast	ADJECTIVE	JJ	_	10	amod	_	_	_	P	_	_
+12	and	and	PREPOSITION	CC	_	5	cc	_	_	_	_	_	_
+13	hours	hours	NOUN	NNS	_	5	conj	_	_	_	P	_	_
+14	8	8	OTHER	CD	_	13	num	_	_	_	_	_	_
+

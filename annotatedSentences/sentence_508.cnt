@@ -1,0 +1,11 @@
+1	accept	accept	VERB	VB	_	0	ROOT	_	_	+/+Fin&+/-NoF	N	P	N
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
+5	less	less	ADJECTIVE	JJR	_	1	dobj	_	_	+/?Fin	P	P	P
+6	than	than	PREPOSITION	IN	_	5	prep	_	_	_	_	_	_
+7	USD	usd	NOUN	NNP	_	6	pobj	_	_	_	P	_	_
+8	90000	90000	OTHER	CD	_	7	num	_	_	_	_	_	_
+9	salary	salary	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+10	usd	usd	ADJECTIVE	JJ	_	9	amod	_	_	_	P	_	_
+

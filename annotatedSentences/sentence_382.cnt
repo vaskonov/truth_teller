@@ -1,0 +1,10 @@
+1	good	good	ADJECTIVE	JJ	_	0	ROOT	_	_	+/+	P	P	P
+2	programmer	programmer	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+3	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+4	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+5	please	please	VERB	VBP	_	1	parataxis	_	_	+/+	P	P	P
+6	promotions	promotion	NOUN	NNS	_	5	nsubj	_	_	_	P	_	_
+7	fast	fast	ADJECTIVE	JJ	_	6	amod	_	_	_	P	_	_
+8	track	track	NOUN	NN	_	6	nn	_	_	_	P	_	_
+9	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

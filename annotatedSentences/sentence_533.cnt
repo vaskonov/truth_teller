@@ -1,0 +1,13 @@
+1	instead	instead	ADVERB	RB	_	0	ROOT	_	_	+/?Fin	U	P	U
+2	then	then	ADVERB	RB	_	1	advmod	_	_	_	_	_	_
+3	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+4	what	what	PRONOUN	WP	_	1	dep	_	_	+/?Fin	P	P	P
+5	about	about	PREPOSITION	IN	_	4	prep	_	_	_	_	_	_
+6	car	car	NOUN	NN	_	5	pobj	_	_	_	P	_	_
+7	a	a	DETERMINER	DT	_	6	det	_	_	_	_	_	_
+8	and	and	PREPOSITION	CC	_	6	cc	_	_	_	_	_	_
+9	days	days	NOUN	NNS	_	6	conj	_	_	_	P	_	_
+10	hr	hr	NOUN	NN	_	9	nn	_	_	_	P	_	_
+11	8	8	OTHER	CD	_	10	num	_	_	_	_	_	_
+12	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

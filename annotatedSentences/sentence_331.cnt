@@ -1,0 +1,17 @@
+1	90000	90000	OTHER	CD	_	0	ROOT	_	_	_	_	_	_
+2	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+3	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+4	programmer	programmer	NOUN	NN	_	1	appos	_	_	_	P	_	_
+5	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+6	%	%	NOUN	NN	_	1	dep	_	_	_	P	_	_
+7	20	20	OTHER	CD	_	6	num	_	_	_	_	_	_
+8	,	,	PUNCTUATION	,	_	6	punct	_	_	_	_	_	_
+9	car	car	NOUN	NN	_	6	appos	_	_	_	N	_	_
+10	no	no	DETERMINER	DT	_	9	det	_	_	_	_	_	_
+11	,	,	PUNCTUATION	,	_	6	punct	_	_	_	_	_	_
+12	promotion	promotion	NOUN	NN	_	6	appos	_	_	_	P	_	_
+13	fast	fast	ADJECTIVE	JJ	_	12	amod	_	_	_	P	_	_
+14	,	,	PUNCTUATION	,	_	6	punct	_	_	_	_	_	_
+15	hours	hours	NOUN	NNS	_	6	appos	_	_	_	P	_	_
+16	9	9	OTHER	CD	_	15	num	_	_	_	_	_	_
+

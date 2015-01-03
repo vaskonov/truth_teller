@@ -1,3 +1,4 @@
-1	excellent	excellent	ADJECTIVE	JJ	_	0	ROOT	_	_	_	P	_	_
-2	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	%	%	NOUN	NN	_	0	ROOT	_	_	_	P	_	_
+2	20	20	OTHER	CD	_	1	num	_	_	_	_	_	_
+3	yes	yes	ADVERB	RB	_	2	quantmod	_	_	_	_	_	_
 

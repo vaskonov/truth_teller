@@ -1,3 +1,24 @@
-1	accepted	accept	VERB	VBN	_	0	ROOT	_	_	+/+Fin&+/-NoF	P	P	P
-2	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	agree	agree	VERB	VB	_	0	ROOT	_	_	+/-NoF	N	P	N
+2	greater	greater	ADJECTIVE	JJR	_	1	dep	_	_	+/?Fin	P	N	N
+3	have	have	VERB	VB	_	2	advcl	_	_	+/?Fin	N	P	N
+4	since	since	PREPOSITION	IN	_	3	mark	_	_	_	_	_	_
+5	i	i	PRONOUN	PRP	_	3	nsubj	_	_	_	_	_	_
+6	will	will	VERB	MD	_	3	aux	_	_	+/?Fin	P	P	P
+7	not	not	ADVERB	RB	_	3	neg	_	_	_	_	_	_
+8	car	car	NOUN	NN	_	3	dobj	_	_	_	P	_	_
+9	a	a	DETERMINER	DT	_	8	det	_	_	_	_	_	_
+10	leased	lease	VERB	VBN	_	8	amod	_	_	+/-NoF	P	U	U
+11	,	,	PUNCTUATION	,	_	2	punct	_	_	_	_	_	_
+12	expenses	expense	NOUN	NNS	_	2	nsubj	_	_	_	P	_	_
+13	will	will	VERB	MD	_	2	aux	_	_	+/?Fin	P	N	N
+14	be	be	VERB	VB	_	2	cop	_	_	+/-	P	N	N
+15	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+16	so	so	ADVERB	RB	_	1	advmod	_	_	_	_	_	_
+17	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+18	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+19	to	to	OTHER	TO	_	1	prep	_	_	_	_	_	_
+20	90000	90000	OTHER	CD	_	19	pobj	_	_	_	_	_	_
+21	with	with	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+22	car	car	NOUN	NN	_	21	pobj	_	_	_	N	_	_
+23	no	no	DETERMINER	DT	_	22	det	_	_	_	_	_	_
 

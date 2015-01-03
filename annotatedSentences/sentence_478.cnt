@@ -1,0 +1,13 @@
+1	90000	90000	OTHER	CD	_	0	ROOT	_	_	_	_	_	_
+2	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+3	programmer	programmer	NOUN	NN	_	1	appos	_	_	_	P	_	_
+4	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+5	%	%	NOUN	NN	_	1	appos	_	_	_	P	_	_
+6	10	10	OTHER	CD	_	5	num	_	_	_	_	_	_
+7	,	,	PUNCTUATION	,	_	5	punct	_	_	_	_	_	_
+8	hours	hours	NOUN	NNS	_	5	appos	_	_	_	P	_	_
+9	8	8	OTHER	CD	_	8	num	_	_	_	_	_	_
+10	,	,	PUNCTUATION	,	_	5	punct	_	_	_	_	_	_
+11	promotion	promotion	NOUN	NN	_	5	appos	_	_	+/?Fin	P	_	U
+12	fast	fast	ADVERB	RB	_	11	advmod	_	_	_	_	_	_
+

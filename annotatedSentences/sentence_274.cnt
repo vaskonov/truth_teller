@@ -1,0 +1,11 @@
+1	willing	willing	ADJECTIVE	JJ	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	90000	90000	OTHER	CD	_	1	nsubj	_	_	_	_	_	_
+3	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+4	the	the	DETERMINER	DT	_	1	det	_	_	_	_	_	_
+5	lowest	lowest	ADJECTIVE	JJS	_	1	advmod	_	_	_	P	_	_
+6	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+7	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+8	be	be	VERB	VB	_	1	cop	_	_	+/-	P	P	P
+9	go	go	VERB	VB	_	1	xcomp	_	_	+/-NoF	P	U	U
+10	to	to	OTHER	TO	_	9	aux	_	_	_	_	_	_
+

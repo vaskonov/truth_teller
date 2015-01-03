@@ -1,3 +1,21 @@
-1	accepted	accept	VERB	VBN	_	0	ROOT	_	_	+/+Fin&+/-NoF	P	P	P
-2	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	agree	agree	VERB	VB	_	0	ROOT	_	_	+/-NoF	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	to	to	OTHER	TO	_	1	prep	_	_	_	_	_	_
+5	usd	usd	NOUN	NN	_	4	pobj	_	_	_	P	_	_
+6	90000	90000	OTHER	CD	_	5	num	_	_	_	_	_	_
+7	and	and	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+8	lease	lease	NOUN	NN	_	1	conj	_	_	_	N	_	_
+9	no	no	DETERMINER	DT	_	8	det	_	_	_	_	_	_
+10	but	but	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+11	like	like	VERB	VB	_	1	conj	_	_	+/+Fin	P	P	P
+12	i	i	PRONOUN	PRP	_	11	nsubj	_	_	_	_	_	_
+13	would	would	VERB	MD	_	11	aux	_	_	+/?Fin	P	P	P
+14	work	work	VERB	VB	_	11	xcomp	_	_	+/?Fin	P	U	U
+15	to	to	OTHER	TO	_	14	aux	_	_	_	_	_	_
+16	days	days	NOUN	NNS	_	14	dobj	_	_	_	P	_	_
+17	hour	hour	NOUN	NN	_	16	nn	_	_	_	P	_	_
+18	8	8	OTHER	CD	_	16	num	_	_	_	_	_	_
+19	i	i	PRONOUN	PRP	_	14	xsubj	_	_	_	_	_	_
+20	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

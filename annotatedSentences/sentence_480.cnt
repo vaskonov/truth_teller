@@ -1,0 +1,18 @@
+1	accept	accept	VERB	VB	_	0	ROOT	_	_	+/+Fin&+/-NoF	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	all	all	DETERMINER	DT	_	1	dobj	_	_	+/?Fin	P	P	P
+5	of	of	PREPOSITION	IN	_	4	prep	_	_	_	_	_	_
+6	terms	terms	NOUN	NNS	_	5	pobj	_	_	_	P	_	_
+7	the	the	DETERMINER	DT	_	6	det	_	_	_	_	_	_
+8	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+9	but	but	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+10	like	like	VERB	VB	_	1	conj	_	_	+/+Fin	P	P	P
+11	would	would	VERB	MD	_	10	aux	_	_	+/?Fin	P	P	P
+12	salary	salary	NOUN	NN	_	10	dobj	_	_	+/?Fin	P	P	P
+13	a	a	DETERMINER	DT	_	12	det	_	_	_	_	_	_
+14	of	of	PREPOSITION	IN	_	12	prep	_	_	_	_	_	_
+15	USD	usd	NOUN	NNP	_	14	pobj	_	_	_	P	_	_
+16	90000	90000	OTHER	CD	_	15	num	_	_	_	_	_	_
+17	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

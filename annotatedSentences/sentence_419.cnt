@@ -1,0 +1,12 @@
+1	accept	accept	VERB	VB	_	0	ROOT	_	_	+/+Fin&+/-NoF	N	P	N
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	do	do	VERB	VBP	_	1	aux	_	_	+/?Fin	P	P	P
+4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
+5	60000	60000	OTHER	CD	_	1	dobj	_	_	_	_	_	_
+6	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+7	want	want	VERB	VBP	_	1	ccomp	_	_	+/?Fin	P	P	P
+8	i	i	PRONOUN	PRP	_	7	nsubj	_	_	_	_	_	_
+9	at	at	PREPOSITION	IN	_	7	prep	_	_	_	_	_	_
+10	90000	90000	OTHER	CD	_	9	pobj	_	_	_	_	_	_
+11	minimum	minimum	ADJECTIVE	JJ	_	10	amod	_	_	_	P	_	_
+

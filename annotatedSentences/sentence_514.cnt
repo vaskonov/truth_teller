@@ -1,0 +1,13 @@
+1	work	work	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	only	only	ADVERB	RB	_	1	advmod	_	_	_	_	_	_
+5	hours	hours	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+6	10	10	OTHER	CD	_	5	num	_	_	_	_	_	_
+7	pay	pay	VERB	VBP	_	1	advcl	_	_	?/-	P	U	U
+8	if	if	PREPOSITION	IN	_	7	mark	_	_	_	_	_	_
+9	you	you	PRONOUN	PRP	_	7	nsubj	_	_	_	_	_	_
+10	90000	90000	OTHER	CD	_	7	dobj	_	_	_	_	_	_
+11	me	me	PRONOUN	PRP	_	10	dep	_	_	_	_	_	_
+12	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

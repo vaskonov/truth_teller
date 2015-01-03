@@ -1,0 +1,5 @@
+1	okay	okay	ADJECTIVE	JJ	_	0	ROOT	_	_	+/+	P	P	P
+2	90000	90000	OTHER	CD	_	1	nsubj	_	_	_	_	_	_
+3	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+4	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

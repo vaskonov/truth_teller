@@ -1,0 +1,19 @@
+1	atek	atek	VERB	VB	_	0	ROOT	_	_	+/?Fin	N	P	N
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	usd	usd	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+5	90000	90000	OTHER	CD	_	4	num	_	_	_	_	_	_
+6	with	with	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+7	track	track	NOUN	NN	_	6	pobj	_	_	_	N	_	_
+8	no	no	DETERMINER	DT	_	7	det	_	_	_	_	_	_
+9	car	car	NOUN	NN	_	7	amod	_	_	_	P	_	_
+10	and	and	PREPOSITION	CC	_	9	cc	_	_	_	_	_	_
+11	slow	slow	ADJECTIVE	JJ	_	9	conj	_	_	_	P	_	_
+12	and	and	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+13	work	work	VERB	VB	_	1	conj	_	_	+/?Fin	N	P	N
+14	will	will	VERB	MD	_	13	aux	_	_	+/?Fin	P	P	P
+15	days	days	NOUN	NNS	_	13	dobj	_	_	_	P	_	_
+16	10	10	OTHER	CD	_	15	num	_	_	_	_	_	_
+17	hour	hour	NOUN	NN	_	15	nn	_	_	_	P	_	_
+18	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

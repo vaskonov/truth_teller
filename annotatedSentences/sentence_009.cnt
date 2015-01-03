@@ -1,20 +1,6 @@
-1	agree	agree	VERB	VBP	_	0	ROOT	_	_	+/-NoF	U	P	U
-2	so	so	ADVERB	RB	_	1	advmod	_	_	_	_	_	_
-3	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-4	do	do	VERB	VBP	_	1	aux	_	_	+/?Fin	P	P	P
-5	we	we	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-6	on	on	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
-7	position	position	NOUN	NN	_	6	pobj	_	_	_	P	_	_
-8	a	a	DETERMINER	DT	_	7	det	_	_	_	_	_	_
-9	programming	programming	NOUN	NN	_	7	nn	_	_	_	P	_	_
-10	with	with	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
-11	car	car	NOUN	NN	_	10	pobj	_	_	_	P	_	_
-12	a	a	DETERMINER	DT	_	11	det	_	_	_	_	_	_
-13	leased	lease	VERB	VBN	_	11	amod	_	_	+/-NoF	P	U	U
-14	and	and	PREPOSITION	CC	_	11	cc	_	_	_	_	_	_
-15	pension	pension	NOUN	NN	_	11	conj	_	_	_	P	_	_
-16	a	a	DETERMINER	DT	_	15	det	_	_	_	_	_	_
-17	%	%	NOUN	NN	_	15	amod	_	_	_	P	_	_
-18	10	10	OTHER	CD	_	17	number	_	_	_	_	_	_
-19	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	opt	opt	VERB	VB	_	0	ROOT	_	_	+/-NoF	P	P	P
+2	out	out	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+3	of	of	PREPOSITION	IN	_	2	pcomp	_	_	_	_	_	_
+4	car	car	NOUN	NN	_	3	pobj	_	_	_	P	_	_
+5	the	the	DETERMINER	DT	_	4	det	_	_	_	_	_	_
 

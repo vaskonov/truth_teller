@@ -1,0 +1,12 @@
+1	unacceptable	unacceptable	ADJECTIVE	JJ	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	usd	usd	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+3	60000	60000	OTHER	CD	_	2	num	_	_	_	_	_	_
+4	and	and	PREPOSITION	CC	_	2	cc	_	_	_	_	_	_
+5	programmer	programmer	NOUN	NN	_	2	conj	_	_	_	P	_	_
+6	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+7	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+8	90000	90000	OTHER	CD	_	1	tmod	_	_	_	_	_	_
+9	and	and	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+10	manager	manager	NOUN	NN	_	1	conj	_	_	_	P	_	_
+11	team	team	NOUN	NN	_	10	nn	_	_	_	P	_	_
+

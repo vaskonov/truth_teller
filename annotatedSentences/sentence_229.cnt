@@ -1,0 +1,21 @@
+1	%	%	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	salary	salary	NOUN	NN	_	1	nsubj	_	_	+/?Fin	N	U	U
+3	90000	90000	OTHER	CD	_	2	num	_	_	_	_	_	_
+4	.	.	PUNCTUATION	.	_	2	punct	_	_	_	_	_	_
+5	car	car	NOUN	NN	_	2	dobj	_	_	_	P	_	_
+6	no	no	DETERMINER	DT	_	5	det	_	_	_	_	_	_
+7	leased	lease	VERB	VBN	_	5	amod	_	_	+/-NoF	P	U	U
+8	.	.	PUNCTUATION	.	_	2	punct	_	_	_	_	_	_
+9	pension	pension	NOUN	NN	_	1	tmod	_	_	_	P	_	_
+10	20	20	OTHER	CD	_	9	num	_	_	_	_	_	_
+11	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+12	promotion	promotion	NOUN	NN	_	1	tmod	_	_	_	P	_	_
+13	fast	fast	ADJECTIVE	JJ	_	12	amod	_	_	_	P	_	_
+14	track	track	NOUN	NN	_	12	nn	_	_	_	P	_	_
+15	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+16	manager	manager	NOUN	NN	_	1	advcl	_	_	_	P	_	_
+17	team	team	NOUN	NN	_	16	nn	_	_	_	P	_	_
+18	hours	hours	NOUN	NNS	_	16	tmod	_	_	_	P	_	_
+19	.10	.10	OTHER	CD	_	18	num	_	_	_	_	_	_
+20	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

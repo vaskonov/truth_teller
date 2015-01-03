@@ -1,10 +1,18 @@
-1	offer	offer	VERB	VBP	_	0	ROOT	_	_	?/?	P	P	P
-2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	you	you	PRONOUN	PRP	_	1	iobj	_	_	+/?Fin	P	P	P
-4	hours	hours	NOUN	NNS	_	3	dobj	_	_	_	P	_	_
-5	10	10	OTHER	CD	_	4	num	_	_	_	_	_	_
-6	for	for	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
-7	position	position	NOUN	NN	_	6	pobj	_	_	_	P	_	_
-8	the	the	DETERMINER	DT	_	7	det	_	_	_	_	_	_
-9	programmer	programmer	NOUN	NN	_	7	nn	_	_	_	P	_	_
+1	want	want	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	hi	hi	NOUN	NNS	_	1	dep	_	_	_	P	_	_
+3	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+4	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+5	120000	120000	OTHER	CD	_	1	dobj	_	_	_	_	_	_
+6	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+7	car	car	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+8	a	a	DETERMINER	DT	_	7	det	_	_	_	_	_	_
+9	,	,	PUNCTUATION	,	_	7	punct	_	_	_	_	_	_
+10	promotion	promotion	NOUN	NN	_	7	conj	_	_	_	P	_	_
+11	fast	fast	ADJECTIVE	JJ	_	10	amod	_	_	_	P	_	_
+12	track	track	NOUN	NN	_	10	nn	_	_	_	P	_	_
+13	and	and	PREPOSITION	CC	_	7	cc	_	_	_	_	_	_
+14	manager	manager	NOUN	NN	_	7	conj	_	_	+/?Fin	P	_	U
+15	to	to	OTHER	TO	_	14	aux	_	_	_	_	_	_
+16	be	be	VERB	VB	_	14	cop	_	_	+/-	P	_	U
+17	project	project	NOUN	NN	_	14	nn	_	_	_	P	_	_
 

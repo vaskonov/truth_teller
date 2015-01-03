@@ -1,0 +1,5 @@
+1	unacceptable	unacceptable	ADJECTIVE	JJ	_	0	ROOT	_	_	_	P	_	_
+2	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+3	usd	usd	NOUN	NN	_	1	dep	_	_	_	P	_	_
+4	120000	120000	OTHER	CD	_	3	num	_	_	_	_	_	_
+

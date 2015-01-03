@@ -1,0 +1,16 @@
+1	pension	pension	NOUN	NN	_	0	ROOT	_	_	_	P	_	_
+2	%	%	NOUN	NN	_	1	amod	_	_	_	P	_	_
+3	20	20	OTHER	CD	_	2	number	_	_	_	_	_	_
+4	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+5	days	days	NOUN	NNS	_	1	appos	_	_	+/?Fin	P	_	U
+6	60000	60000	OTHER	CD	_	5	nsubj	_	_	+/?Fin	P	U	U
+7	work	work	NOUN	NN	_	6	nsubj	_	_	_	P	_	_
+8	both	both	DETERMINER	DT	_	7	det	_	_	_	_	_	_
+9	.	.	PUNCTUATION	.	_	6	punct	_	_	_	_	_	_
+10	leased	lease	VERB	VBN	_	5	amod	_	_	+/-NoF	P	U	U
+11	car	car	NOUN	NN	_	5	amod	_	_	_	P	_	_
+12	and	and	PREPOSITION	CC	_	11	cc	_	_	_	_	_	_
+13	8	8	OTHER	CD	_	11	conj	_	_	_	_	_	_
+14	hours	hours	NOUN	NNS	_	5	nn	_	_	_	P	_	_
+15	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

@@ -1,0 +1,11 @@
+1	90000	90000	OTHER	CD	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+3	leased	lease	VERB	VBN	_	1	partmod	_	_	+/-NoF	P	P	P
+4	car	car	NOUN	NN	_	3	dobj	_	_	_	P	_	_
+5	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+6	track	track	NOUN	NN	_	1	appos	_	_	_	P	_	_
+7	%	%	NOUN	NN	_	6	amod	_	_	_	P	_	_
+8	20	20	OTHER	CD	_	7	num	_	_	_	_	_	_
+9	,	,	PUNCTUATION	,	_	6	punct	_	_	_	_	_	_
+10	fast	fast	ADJECTIVE	JJ	_	6	amod	_	_	_	P	_	_
+

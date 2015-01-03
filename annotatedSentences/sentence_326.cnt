@@ -1,0 +1,6 @@
+1	find	find	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	90000	90000	OTHER	CD	_	1	nsubj	_	_	_	_	_	_
+3	or	or	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+4	someone	someone	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+5	else	else	ADVERB	RB	_	4	dep	_	_	_	_	_	_
+

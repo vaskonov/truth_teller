@@ -1,5 +1,19 @@
-1	%	%	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
-2	pension	pension	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
-3	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
-4	10	10	OTHER	CD	_	1	num	_	_	_	_	_	_
+1	looks	look	VERB	VBZ	_	0	ROOT	_	_	+/+Fin	P	P	P
+2	it	it	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	good	good	ADJECTIVE	JJ	_	1	acomp	_	_	_	P	_	_
+4	except	except	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+5	for	for	PREPOSITION	IN	_	4	pcomp	_	_	_	_	_	_
+6	salary	salary	NOUN	NN	_	5	pobj	_	_	_	P	_	_
+7	the	the	DETERMINER	DT	_	6	det	_	_	_	_	_	_
+8	and	and	PREPOSITION	CC	_	6	cc	_	_	_	_	_	_
+9	hours	hours	NOUN	NNS	_	6	conj	_	_	_	P	_	_
+10	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+11	need	need	VERB	VB	_	1	ccomp	_	_	+/?Fin	P	P	P
+12	i	i	PRONOUN	PRP	_	11	nsubj	_	_	_	_	_	_
+13	will	will	VERB	MD	_	11	aux	_	_	+/?Fin	P	P	P
+14	hours	hours	NOUN	NNS	_	11	dobj	_	_	_	P	_	_
+15	90	90	OTHER	CD	_	14	nn	_	_	_	_	_	_
+16	and	and	PREPOSITION	CC	_	15	cc	_	_	_	_	_	_
+17	9	9	OTHER	CD	_	15	conj	_	_	_	_	_	_
+18	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

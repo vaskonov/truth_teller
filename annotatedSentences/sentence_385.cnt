@@ -1,0 +1,19 @@
+1	need	need	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	okay	okay	ADJECTIVE	JJ	_	1	dep	_	_	_	P	_	_
+3	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+4	also	also	ADVERB	RB	_	1	advmod	_	_	_	_	_	_
+5	promotion	promotion	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+6	a	a	DETERMINER	DT	_	5	det	_	_	_	_	_	_
+7	fast	fast	ADJECTIVE	JJ	_	5	amod	_	_	_	P	_	_
+8	track	track	NOUN	NN	_	5	nn	_	_	_	P	_	_
+9	and	and	PREPOSITION	CC	_	5	cc	_	_	_	_	_	_
+10	car	car	NOUN	NN	_	5	conj	_	_	_	P	_	_
+11	a	a	DETERMINER	DT	_	10	det	_	_	_	_	_	_
+12	leased	lease	VERB	VBN	_	10	amod	_	_	+/-NoF	P	U	U
+13	working	work	VERB	VBG	_	1	advcl	_	_	+/?Fin	P	U	U
+14	if	if	PREPOSITION	IN	_	13	mark	_	_	_	_	_	_
+15	i	i	PRONOUN	PRP	_	13	nsubj	_	_	_	_	_	_
+16	am	be	VERB	VBP	_	13	aux	_	_	+/-	P	U	U
+17	hours	hours	NOUN	NNS	_	13	dobj	_	_	_	P	_	_
+18	10	10	OTHER	CD	_	17	num	_	_	_	_	_	_
+

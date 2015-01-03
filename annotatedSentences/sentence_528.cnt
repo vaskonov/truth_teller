@@ -1,0 +1,26 @@
+1	accept	accept	VERB	VB	_	0	ROOT	_	_	+/+Fin&+/-NoF	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	offer	offer	NOUN	NN	_	1	dobj	_	_	?/?	P	P	P
+4	the	the	DETERMINER	DT	_	3	det	_	_	_	_	_	_
+5	of	of	PREPOSITION	IN	_	3	prep	_	_	_	_	_	_
+6	usd	usd	NOUN	NN	_	5	pobj	_	_	_	P	_	_
+7	60000	60000	OTHER	CD	_	6	num	_	_	_	_	_	_
+8	as	as	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+9	programmer	programmer	NOUN	NN	_	8	pobj	_	_	+/?Fin	P	P	P
+10	a	a	DETERMINER	DT	_	9	det	_	_	_	_	_	_
+11	with	with	PREPOSITION	IN	_	9	prep	_	_	_	_	_	_
+12	car	car	NOUN	NN	_	11	pobj	_	_	_	P	_	_
+13	and	and	PREPOSITION	CC	_	12	cc	_	_	_	_	_	_
+14	pension	pension	NOUN	NN	_	12	conj	_	_	_	P	_	_
+15	%	%	NOUN	NN	_	14	amod	_	_	_	P	_	_
+16	20	20	OTHER	CD	_	15	number	_	_	_	_	_	_
+17	on	on	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+18	track	track	NOUN	NN	_	17	pobj	_	_	+/?	P	P	P
+19	fast	fast	ADJECTIVE	JJ	_	18	amod	_	_	_	P	_	_
+20	a	a	DETERMINER	DT	_	18	det	_	_	_	_	_	_
+21	with	with	PREPOSITION	IN	_	18	prep	_	_	_	_	_	_
+22	days	days	NOUN	NNS	_	21	pobj	_	_	_	P	_	_
+23	hour	hour	NOUN	NN	_	22	nn	_	_	_	P	_	_
+24	10	10	OTHER	CD	_	22	num	_	_	_	_	_	_
+25	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

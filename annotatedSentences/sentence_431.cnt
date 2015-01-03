@@ -1,0 +1,9 @@
+1	hours	hours	NOUN	NNS	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	8	8	OTHER	CD	_	1	num	_	_	_	_	_	_
+3	pension	pension	NOUN	NN	_	1	npadvmod	_	_	_	N	_	_
+4	no	no	DETERMINER	DT	_	3	det	_	_	_	_	_	_
+5	and	and	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+6	car	car	NOUN	NN	_	1	conj	_	_	_	P	_	_
+7	a	a	DETERMINER	DT	_	6	det	_	_	_	_	_	_
+8	leased	lease	VERB	VBN	_	6	amod	_	_	+/-NoF	P	U	U
+

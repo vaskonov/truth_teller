@@ -1,13 +1,12 @@
-1	need	need	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
-2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	hours	hours	NOUN	NNS	_	1	xcomp	_	_	+/?Fin	P	U	U
-4	you	you	PRONOUN	PRP	_	3	nsubj	_	_	_	_	_	_
-5	to	to	OTHER	TO	_	3	aux	_	_	_	_	_	_
-6	work	work	VERB	VB	_	3	cop	_	_	+/?Fin	P	U	U
-7	10	10	OTHER	CD	_	3	num	_	_	_	_	_	_
-8	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
-9	but	but	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
-10	do	do	VERB	VB	_	1	conj	_	_	+/?Fin	P	P	P
-11	9	9	OTHER	CD	_	10	nsubj	_	_	_	_	_	_
-12	will	will	VERB	MD	_	10	aux	_	_	+/?Fin	P	P	P
+1	required	require	VERB	VBN	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	car	car	NOUN	NN	_	1	nsubjpass	_	_	_	P	_	_
+3	a	a	DETERMINER	DT	_	2	det	_	_	_	_	_	_
+4	is	be	VERB	VBZ	_	1	auxpass	_	_	+/-	P	P	P
+5	law	law	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+6	y	y	ADJECTIVE	JJ	_	5	amod	_	_	_	P	_	_
+7	state	state	NOUN	NN	_	5	nn	_	_	_	P	_	_
+8	for	for	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+9	positions	position	NOUN	NNS	_	8	pobj	_	_	_	P	_	_
+10	programmer	programmer	NOUN	NN	_	9	nn	_	_	_	P	_	_
+11	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

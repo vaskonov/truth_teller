@@ -1,0 +1,6 @@
+1	like	like	VERB	VB	_	0	ROOT	_	_	+/+Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	hours	hours	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+5	9	9	OTHER	CD	_	4	num	_	_	_	_	_	_
+

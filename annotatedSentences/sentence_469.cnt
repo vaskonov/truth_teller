@@ -1,0 +1,19 @@
+1	agree	agree	VERB	VB	_	0	ROOT	_	_	+/-NoF	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	to	to	OTHER	TO	_	1	prep	_	_	_	_	_	_
+5	days	days	NOUN	NNS	_	4	pobj	_	_	_	P	_	_
+6	10	10	OTHER	CD	_	5	num	_	_	_	_	_	_
+7	hour	hour	NOUN	NN	_	5	nn	_	_	_	P	_	_
+8	but	but	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+9	like	like	VERB	VB	_	1	conj	_	_	+/+Fin	P	P	P
+10	would	would	VERB	MD	_	9	aux	_	_	+/?Fin	P	P	P
+11	lease	lease	NOUN	NN	_	9	dobj	_	_	_	P	_	_
+12	the	the	DETERMINER	DT	_	11	det	_	_	_	_	_	_
+13	car	car	NOUN	NN	_	11	nn	_	_	_	P	_	_
+14	and	and	PREPOSITION	CC	_	11	cc	_	_	_	_	_	_
+15	pension	pension	NOUN	NN	_	11	conj	_	_	_	P	_	_
+16	%	%	NOUN	NN	_	15	amod	_	_	_	P	_	_
+17	20	20	OTHER	CD	_	16	number	_	_	_	_	_	_
+18	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

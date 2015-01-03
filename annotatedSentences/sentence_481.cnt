@@ -1,0 +1,25 @@
+1	realize	realize	VERB	VBP	_	0	ROOT	_	_	+/+Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	running	run	VERB	VBG	_	1	ccomp	_	_	+/?Fin	P	P	P
+4	that	that	PREPOSITION	IN	_	3	complm	_	_	_	_	_	_
+5	time	time	NOUN	NN	_	3	nsubj	_	_	_	P	_	_
+6	is	be	VERB	VBZ	_	3	aux	_	_	+/-	P	P	P
+7	low	low	ADJECTIVE	JJ	_	3	advmod	_	_	_	P	_	_
+8	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+9	but	but	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+10	see	see	VERB	VB	_	1	conj	_	_	+/+Fin	P	P	P
+11	you	you	PRONOUN	PRP	_	10	nsubj	_	_	_	_	_	_
+12	must	must	VERB	MD	_	10	aux	_	_	+/?Fin	P	P	P
+13	it	it	PRONOUN	PRP	_	10	dobj	_	_	_	_	_	_
+14	in	in	PREPOSITION	IN	_	10	prep	_	_	_	_	_	_
+15	interest	interest	NOUN	NN	_	14	pobj	_	_	_	P	P	P
+16	your	your	PRONOUN	PRP$	_	15	poss	_	_	_	_	_	_
+17	best	best	ADJECTIVE	JJS	_	15	amod	_	_	_	P	_	_
+18	offer	offer	VERB	VB	_	10	xcomp	_	_	?/?	P	U	U
+19	to	to	OTHER	TO	_	18	aux	_	_	_	_	_	_
+20	me	me	PRONOUN	PRP	_	18	iobj	_	_	_	_	_	_
+21	hours	hours	NOUN	NNS	_	18	dobj	_	_	_	P	_	_
+22	9	9	OTHER	CD	_	21	num	_	_	_	_	_	_
+23	you	you	PRONOUN	PRP	_	18	xsubj	_	_	_	_	_	_
+24	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

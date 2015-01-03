@@ -1,0 +1,9 @@
+1	agree	agree	VERB	VB	_	0	ROOT	_	_	+/-NoF	N	P	N
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
+5	to	to	OTHER	TO	_	1	prep	_	_	_	_	_	_
+6	that	that	DETERMINER	DT	_	5	pobj	_	_	_	_	_	_
+7	at	at	PREPOSITION	IN	_	1	advmod	_	_	_	_	_	_
+8	all	all	DETERMINER	DT	_	7	pobj	_	_	_	_	_	_
+

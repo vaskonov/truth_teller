@@ -1,0 +1,17 @@
+1	one	one	OTHER	CD	_	0	ROOT	_	_	+/?Fin	U	P	U
+2	you	you	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	are	be	VERB	VBP	_	1	cop	_	_	+/-	P	P	P
+4	the	the	DETERMINER	DT	_	1	dep	_	_	_	_	_	_
+5	offered	offer	VERB	VBD	_	1	rcmod	_	_	?/?	P	P	P
+6	who	who	PRONOUN	WP	_	5	nsubj	_	_	_	_	_	_
+7	first	first	ADJECTIVE	JJ	_	5	dobj	_	_	_	P	_	_
+8	90000	90000	OTHER	CD	_	7	num	_	_	_	_	_	_
+9	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+10	unacceptable	unacceptable	ADJECTIVE	JJ	_	1	dep	_	_	+/?Fin	P	P	P
+11	why	why	ADVERB	WRB	_	10	advmod	_	_	_	_	_	_
+12	is	be	VERB	VBZ	_	10	cop	_	_	+/-	P	P	P
+13	this	this	DETERMINER	DT	_	10	nsubj	_	_	_	_	_	_
+14	now	now	ADVERB	RB	_	10	advmod	_	_	_	_	_	_
+15	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+16	who	who	PRONOUN	WP	_	1	ref	_	_	_	_	_	_
+

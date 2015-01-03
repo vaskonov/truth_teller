@@ -1,2 +1,12 @@
-1	accepted	accept	VERB	VBN	_	0	ROOT	_	_	+/+Fin&+/-NoF	P	P	P
+1	have	have	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	90000	90000	OTHER	CD	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	lowest	lowest	ADJECTIVE	JJS	_	1	xcomp	_	_	+/?Fin	P	U	U
+5	to	to	OTHER	TO	_	4	aux	_	_	_	_	_	_
+6	be	be	VERB	VB	_	4	cop	_	_	+/-	P	U	U
+7	the	the	DETERMINER	DT	_	4	det	_	_	_	_	_	_
+8	go	go	VERB	VB	_	4	rcmod	_	_	+/-NoF	P	U	U
+9	i	i	PRONOUN	PRP	_	8	nsubj	_	_	_	_	_	_
+10	can	can	VERB	MD	_	8	aux	_	_	+/?Fin	P	U	U
+11	90000	90000	OTHER	CD	_	4	xsubj	_	_	_	_	_	_
 

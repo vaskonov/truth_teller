@@ -1,0 +1,15 @@
+1	programmer	programmer	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+3	with	with	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+4	car	car	NOUN	NN	_	3	pobj	_	_	_	P	_	_
+5	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+6	salary	salary	NOUN	NN	_	1	appos	_	_	_	P	_	_
+7	120000	120000	OTHER	CD	_	6	num	_	_	_	_	_	_
+8	,	,	PUNCTUATION	,	_	6	punct	_	_	_	_	_	_
+9	track	track	NOUN	NN	_	6	appos	_	_	_	P	_	_
+10	fast	fast	ADJECTIVE	JJ	_	9	amod	_	_	_	P	_	_
+11	,	,	PUNCTUATION	,	_	6	punct	_	_	_	_	_	_
+12	hours	hours	NOUN	NNS	_	6	appos	_	_	_	P	_	_
+13	9	9	OTHER	CD	_	12	num	_	_	_	_	_	_
+14	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+

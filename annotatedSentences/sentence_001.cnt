@@ -1,7 +1,8 @@
-1	believe	believe	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
-2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	sign	sign	VERB	VB	_	1	ccomp	_	_	+/?Fin	P	P	P
-4	we	we	PRONOUN	PRP	_	3	nsubj	_	_	_	_	_	_
-5	should	should	VERB	MD	_	3	aux	_	_	+/?Fin	P	P	P
-6	now	now	ADVERB	RB	_	3	advmod	_	_	_	_	_	_
+1	fair	fair	ADJECTIVE	JJ	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	okay	okay	ADJECTIVE	JJ	_	1	ccomp	_	_	_	P	_	_
+3	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+4	USD	usd	NOUN	NNP	_	1	nsubj	_	_	_	P	_	_
+5	60000	60000	OTHER	CD	_	4	num	_	_	_	_	_	_
+6	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+7	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

@@ -1,0 +1,11 @@
+1	works	work	VERB	VBZ	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	fund	fund	NOUN	NN	_	1	csubj	_	_	+/?Fin	P	U	U
+3	%	%	NOUN	NN	_	2	amod	_	_	_	P	_	_
+4	20	20	OTHER	CD	_	3	number	_	_	_	_	_	_
+5	pension	pension	NOUN	NN	_	2	nn	_	_	_	P	_	_
+6	as	as	PREPOSITION	IN	_	2	prep	_	_	_	_	_	_
+7	programmer	programmer	NOUN	NN	_	6	pobj	_	_	_	P	_	_
+8	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+9	that	that	DETERMINER	WDT	_	1	nsubj	_	_	_	_	_	_
+10	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

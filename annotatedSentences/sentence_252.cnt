@@ -1,0 +1,22 @@
+1	like	like	VERB	VB	_	0	ROOT	_	_	+/+Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	'd	'd	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	work	work	VERB	VB	_	1	xcomp	_	_	+/?Fin	P	U	U
+5	to	to	OTHER	TO	_	4	aux	_	_	_	_	_	_
+6	for	for	PREPOSITION	IN	_	4	prep	_	_	_	_	_	_
+7	company	company	NOUN	NN	_	6	pobj	_	_	+/?Fin	P	P	P
+8	your	your	PRONOUN	PRP$	_	7	poss	_	_	_	_	_	_
+9	as	as	PREPOSITION	IN	_	7	prep	_	_	_	_	_	_
+10	manager	manager	NOUN	NN	_	9	pobj	_	_	_	P	_	_
+11	a	a	DETERMINER	DT	_	10	det	_	_	_	_	_	_
+12	project	project	NOUN	NN	_	10	nn	_	_	_	P	_	_
+13	i	i	PRONOUN	PRP	_	4	xsubj	_	_	_	_	_	_
+14	and	and	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+15	willing	willing	ADJECTIVE	JJ	_	1	conj	_	_	+/?Fin	P	P	P
+16	am	be	VERB	VBP	_	15	cop	_	_	+/-	P	P	P
+17	to	to	OTHER	TO	_	15	prep	_	_	_	_	_	_
+18	hours	hours	NOUN	NNS	_	17	pobj	_	_	+/?Fin	P	U	U
+19	work10	work10	OTHER	CD	_	18	num	_	_	_	_	_	_
+20	day	day	NOUN	NN	_	18	npadvmod	_	_	_	P	_	_
+21	a	a	DETERMINER	DT	_	20	det	_	_	_	_	_	_
+

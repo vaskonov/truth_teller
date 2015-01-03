@@ -1,4 +1,5 @@
-1	car	car	NOUN	NN	_	0	ROOT	_	_	_	N	_	_
-2	no	no	DETERMINER	DT	_	1	det	_	_	_	_	_	_
-3	leased	lease	VERB	VBN	_	1	amod	_	_	+/-NoF	P	U	U
+1	suggesting	suggest	VERB	VBG	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	what	what	PRONOUN	WP	_	1	dobj	_	_	_	_	_	_
+3	are	be	VERB	VBP	_	1	aux	_	_	+/-	P	P	P
+4	you	you	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
 

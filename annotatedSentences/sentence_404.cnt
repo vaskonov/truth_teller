@@ -1,0 +1,6 @@
+1	accept	accept	VERB	VB	_	0	ROOT	_	_	+/+Fin&+/-NoF	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	offer	offer	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+5	that	that	DETERMINER	DT	_	4	det	_	_	_	_	_	_
+

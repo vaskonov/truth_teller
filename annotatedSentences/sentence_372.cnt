@@ -1,0 +1,9 @@
+1	acceptable	acceptable	ADJECTIVE	JJ	_	0	ROOT	_	_	+/+	P	P	P
+2	salary	salary	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+3	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+4	hours	hours	NOUN	NNS	_	1	advcl	_	_	+/?Fin	P	U	U
+5	if	if	PREPOSITION	IN	_	4	mark	_	_	_	_	_	_
+6	i	i	PRONOUN	PRP	_	4	nsubj	_	_	_	_	_	_
+7	work	work	NOUN	NN	_	4	dep	_	_	_	P	_	_
+8	less	less	ADJECTIVE	JJR	_	4	amod	_	_	_	P	_	_
+

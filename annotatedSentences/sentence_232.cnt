@@ -1,0 +1,9 @@
+1	manager	manager	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	90000	90000	OTHER	CD	_	1	nsubj	_	_	_	_	_	_
+3	.	.	PUNCTUATION	.	_	2	punct	_	_	_	_	_	_
+4	team	team	NOUN	NN	_	1	nn	_	_	_	P	_	_
+5	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+6	car	car	NOUN	NN	_	1	npadvmod	_	_	_	N	_	_
+7	no	no	DETERMINER	DT	_	6	det	_	_	_	_	_	_
+8	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

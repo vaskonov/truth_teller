@@ -1,0 +1,19 @@
+1	accept	accept	VERB	VB	_	0	ROOT	_	_	+/+Fin&+/-NoF	N	P	N
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
+5	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+6	want	want	VERB	VBP	_	1	ccomp	_	_	+/?Fin	P	P	P
+7	i	i	PRONOUN	PRP	_	6	nsubj	_	_	_	_	_	_
+8	pension	pension	NOUN	NN	_	6	xcomp	_	_	+/?Fin	P	U	U
+9	to	to	OTHER	TO	_	8	aux	_	_	_	_	_	_
+10	be	be	VERB	VB	_	8	cop	_	_	+/-	P	U	U
+11	manager	manager	NOUN	NN	_	8	nn	_	_	_	P	_	_
+12	team	team	NOUN	NN	_	11	nn	_	_	_	P	_	_
+13	%	%	NOUN	NN	_	8	amod	_	_	_	P	_	_
+14	20	20	OTHER	CD	_	13	number	_	_	_	_	_	_
+15	and	and	PREPOSITION	CC	_	8	cc	_	_	_	_	_	_
+16	car	car	NOUN	NN	_	8	conj	_	_	_	P	_	_
+17	leased	lease	VERB	VBN	_	16	amod	_	_	+/-NoF	P	U	U
+18	i	i	PRONOUN	PRP	_	8	xsubj	_	_	_	_	_	_
+

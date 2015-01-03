@@ -1,9 +1,5 @@
-1	unable	unable	ADJECTIVE	JJ	_	0	ROOT	_	_	-/?NoF	P	P	P
+1	want	want	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
 2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	am	be	VERB	VBP	_	1	cop	_	_	+/-	P	P	P
-4	accept	accept	VERB	VB	_	1	xcomp	_	_	+/+Fin&+/-NoF	P	N	N
-5	to	to	OTHER	TO	_	4	aux	_	_	_	_	_	_
-6	track	track	NOUN	NN	_	4	dobj	_	_	_	P	_	_
-7	fast	fast	ADJECTIVE	JJ	_	6	amod	_	_	_	P	_	_
-8	promotion	promotion	NOUN	NN	_	6	nn	_	_	_	P	_	_
+3	hours	hours	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+4	9	9	OTHER	CD	_	3	num	_	_	_	_	_	_
 
