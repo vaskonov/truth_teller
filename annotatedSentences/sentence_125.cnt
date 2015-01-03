@@ -1,4 +1,4 @@
-1	hours	hours	NOUN	NNS	_	0	ROOT	_	_	_	U	_	_
-2	8	8	OTHER	CD	_	1	num	_	_	_	_	_	_
-3	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	make	make	VERB	VB	_	0	ROOT	_	_	+/?NoF	P	P	P
+2	offer	offer	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+3	an	an	DETERMINER	DT	_	2	det	_	_	_	_	_	_
 

@@ -1,8 +1,7 @@
-1	regret	regret	VERB	VB	_	0	ROOT	_	_	+/+	N	P	N
-2	you	you	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
-4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
-5	paying	pay	VERB	VBG	_	1	xcomp	_	_	?/-	P	P	P
-6	120000	120000	OTHER	CD	_	5	ccomp	_	_	+/?Fin	P	U	U
-7	me	me	PRONOUN	PRP	_	6	nsubj	_	_	_	_	_	_
+1	take	take	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	okay	okay	ADJECTIVE	JJ	_	1	advmod	_	_	_	P	_	_
+3	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+4	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+5	manager	manager	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+6	team	team	NOUN	NN	_	5	nn	_	_	_	P	_	_
 

@@ -1,21 +1,7 @@
-1	agree	agree	VERB	VBP	_	0	ROOT	_	_	+/-NoF	P	P	P
-2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	to	to	OTHER	TO	_	1	prep	_	_	_	_	_	_
-4	hours	hours	NOUN	NNS	_	3	pobj	_	_	_	P	_	_
-5	9	9	OTHER	CD	_	4	num	_	_	_	_	_	_
-6	,	,	PUNCTUATION	,	_	4	punct	_	_	_	_	_	_
-7	salary	salary	NOUN	NN	_	4	appos	_	_	_	P	_	_
-8	90000	90000	OTHER	CD	_	7	num	_	_	_	_	_	_
-9	,	,	PUNCTUATION	,	_	4	punct	_	_	_	_	_	_
-10	track	track	NOUN	NN	_	4	appos	_	_	_	P	_	_
-11	fast	fast	ADJECTIVE	JJ	_	10	amod	_	_	_	P	_	_
-12	promotion	promotion	NOUN	NN	_	10	nn	_	_	_	P	_	_
-13	,	,	PUNCTUATION	,	_	4	punct	_	_	_	_	_	_
-14	%	%	NOUN	NN	_	4	appos	_	_	_	P	_	_
-15	20	20	OTHER	CD	_	14	num	_	_	_	_	_	_
-16	,	,	PUNCTUATION	,	_	4	punct	_	_	_	_	_	_
-17	leased	lease	VERB	VBN	_	1	dep	_	_	+/-NoF	P	P	P
-18	car	car	NOUN	NN	_	17	dobj	_	_	_	P	_	_
-19	,	,	PUNCTUATION	,	_	18	punct	_	_	_	_	_	_
-20	programmer	programmer	NOUN	NN	_	18	appos	_	_	_	P	_	_
+1	manager	manager	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	okay	okay	ADJECTIVE	JJ	_	1	amod	_	_	_	P	_	_
+3	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+4	am	be	VERB	VBP	_	1	cop	_	_	+/-	P	P	P
+5	a	a	DETERMINER	DT	_	1	det	_	_	_	_	_	_
+6	team	team	NOUN	NN	_	1	nn	_	_	_	P	_	_
 

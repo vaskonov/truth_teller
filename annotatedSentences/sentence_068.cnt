@@ -1,16 +1,10 @@
-1	payment	payment	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
-2	90000	90000	OTHER	CD	_	1	nsubj	_	_	_	_	_	_
-3	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
-4	a	a	DETERMINER	DT	_	1	det	_	_	_	_	_	_
-5	good	good	ADJECTIVE	JJ	_	1	amod	_	_	_	P	_	_
-6	for	for	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
-7	programmer	programmer	NOUN	NN	_	6	pobj	_	_	+/?Fin	P	P	P
-8	a	a	DETERMINER	DT	_	7	det	_	_	_	_	_	_
-9	promoted	promote	VERB	VBN	_	7	rcmod	_	_	+/+	P	P	P
-10	who	who	PRONOUN	WP	_	9	dep	_	_	_	_	_	_
-11	son	son	NOUN	NN	_	9	nsubjpass	_	_	+/?Fin	P	U	U
-12	will	will	VERB	MD	_	11	aux	_	_	+/?Fin	P	U	U
-13	be	be	VERB	VB	_	9	auxpass	_	_	+/-	P	P	P
-14	who	who	PRONOUN	WP	_	7	ref	_	_	_	_	_	_
-15	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	take	take	VERB	VB	_	0	ROOT	_	_	+/?Fin	U	P	U
+2	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+3	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+4	position	position	NOUN	NN	_	1	dobj	_	_	+/+Fin	P	P	P
+5	the	the	DETERMINER	DT	_	4	det	_	_	_	_	_	_
+6	of	of	PREPOSITION	IN	_	4	prep	_	_	_	_	_	_
+7	manager	manager	NOUN	NN	_	6	pobj	_	_	_	P	_	_
+8	team	team	NOUN	NN	_	7	nn	_	_	_	P	_	_
+9	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

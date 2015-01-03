@@ -1,3 +1,7 @@
-1	sorry	sorry	ADJECTIVE	JJ	_	0	ROOT	_	_	_	P	_	_
-2	120000	120000	OTHER	CD	_	1	num	_	_	_	_	_	_
+1	sounds	sound	VERB	VBZ	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	okay	okay	ADJECTIVE	JJ	_	1	advmod	_	_	_	P	_	_
+3	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+4	deal	deal	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+5	good	good	ADJECTIVE	JJ	_	4	amod	_	_	_	P	_	_
+6	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

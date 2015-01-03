@@ -1,6 +1,3 @@
-1	about	about	ADVERB	RB	_	0	ROOT	_	_	+/?Fin	U	P	U
-2	how	how	ADVERB	WRB	_	1	advmod	_	_	_	_	_	_
-3	manager	manager	NOUN	NN	_	1	dep	_	_	_	P	_	_
-4	team	team	NOUN	NN	_	3	nn	_	_	_	P	_	_
-5	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	programmer	programmer	NOUN	NN	_	0	ROOT	_	_	_	P	_	_
+2	90000	90000	OTHER	CD	_	1	num	_	_	_	_	_	_
 

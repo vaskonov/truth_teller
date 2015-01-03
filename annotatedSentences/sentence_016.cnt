@@ -1,10 +1,12 @@
-1	take	take	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+1	need	need	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
 2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
-4	60000	60000	OTHER	CD	_	1	dobj	_	_	_	_	_	_
-5	track	track	NOUN	NN	_	1	advcl	_	_	+/?	P	U	U
-6	if	if	PREPOSITION	IN	_	5	mark	_	_	_	_	_	_
-7	promotion	promotion	NOUN	NN	_	5	nsubj	_	_	_	P	_	_
-8	is	be	VERB	VBZ	_	5	cop	_	_	+/-	P	U	U
-9	fast	fast	ADJECTIVE	JJ	_	5	amod	_	_	_	P	_	_
+3	hours	hours	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+4	8	8	OTHER	CD	_	3	num	_	_	_	_	_	_
+5	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+6	need	need	VERB	VBP	_	1	ccomp	_	_	+/?Fin	P	P	P
+7	i	i	PRONOUN	PRP	_	6	nsubj	_	_	_	_	_	_
+8	flexibility	flexibility	NOUN	NN	_	6	dobj	_	_	+/?Fin	P	P	P
+9	some	some	DETERMINER	DT	_	8	det	_	_	_	_	_	_
+10	here	here	ADVERB	RB	_	8	advmod	_	_	_	_	_	_
+11	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

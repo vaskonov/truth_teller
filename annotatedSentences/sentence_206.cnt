@@ -1,12 +1,8 @@
 1	need	need	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
 2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	%	%	NOUN	NN	_	1	dobj	_	_	+/?Fin	P	P	P
-4	20	20	OTHER	CD	_	3	num	_	_	_	_	_	_
-5	then	then	ADVERB	RB	_	3	advmod	_	_	_	_	_	_
-6	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
-7	car	car	NOUN	NN	_	1	dep	_	_	_	N	_	_
-8	no	no	DETERMINER	DT	_	7	det	_	_	_	_	_	_
-9	,	,	PUNCTUATION	,	_	7	punct	_	_	_	_	_	_
-10	track	track	NOUN	NN	_	7	appos	_	_	_	P	_	_
-11	fast	fast	ADJECTIVE	JJ	_	10	amod	_	_	_	P	_	_
+3	work	work	VERB	VB	_	1	xcomp	_	_	+/?Fin	P	U	U
+4	to	to	OTHER	TO	_	3	aux	_	_	_	_	_	_
+5	hours	hours	NOUN	NNS	_	3	dobj	_	_	_	P	_	_
+6	8	8	OTHER	CD	_	5	num	_	_	_	_	_	_
+7	i	i	PRONOUN	PRP	_	3	xsubj	_	_	_	_	_	_
 

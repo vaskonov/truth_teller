@@ -1,12 +1,3 @@
-1	about	about	PREPOSITION	IN	_	0	ROOT	_	_	_	_	_	_
-2	what	what	PRONOUN	WP	_	1	dep	_	_	_	_	_	_
-3	up	up	PREPOSITION	RP	_	1	dep	_	_	_	_	_	_
-4	if	if	PREPOSITION	IN	_	3	dep	_	_	_	_	_	_
-5	we	we	PRONOUN	PRP	_	4	pobj	_	_	_	_	_	_
-6	salary	salary	NOUN	NN	_	3	pobj	_	_	+/?Fin	P	P	P
-7	the	the	DETERMINER	DT	_	6	det	_	_	_	_	_	_
-8	to	to	OTHER	TO	_	6	prep	_	_	_	_	_	_
-9	USD	usd	NOUN	NNP	_	8	pobj	_	_	_	P	_	_
-10	120000	120000	OTHER	CD	_	9	num	_	_	_	_	_	_
-11	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	hours	hours	NOUN	NNS	_	0	ROOT	_	_	_	P	_	_
+2	8	8	OTHER	CD	_	1	num	_	_	_	_	_	_
 

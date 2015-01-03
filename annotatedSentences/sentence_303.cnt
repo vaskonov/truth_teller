@@ -1,19 +1,7 @@
-1	accept	accept	VERB	VB	_	0	ROOT	_	_	+/+Fin&+/-NoF	N	P	N
+1	prefer	prefer	VERB	VB	_	0	ROOT	_	_	+/-NoF	P	P	P
 2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	do	do	VERB	VBP	_	1	aux	_	_	+/?Fin	P	P	P
-4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
-5	offer	offer	NOUN	NN	_	1	dobj	_	_	?/?	P	P	P
-6	the	the	DETERMINER	DT	_	5	det	_	_	_	_	_	_
-7	of	of	PREPOSITION	IN	_	5	prep	_	_	_	_	_	_
-8	year	year	NOUN	NN	_	7	pobj	_	_	_	P	_	_
-9	USD	usd	NOUN	NNP	_	8	nn	_	_	_	P	_	_
-10	60000	60000	OTHER	CD	_	9	num	_	_	_	_	_	_
-11	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-12	offered	offer	VERB	VBD	_	1	ccomp	_	_	?/?	P	P	P
-13	you	you	PRONOUN	PRP	_	12	nsubj	_	_	_	_	_	_
-14	USD	usd	NOUN	NNP	_	12	dobj	_	_	_	P	_	_
-15	90000	90000	OTHER	CD	_	14	num	_	_	_	_	_	_
-16	first	first	ADVERB	RB	_	12	advmod	_	_	_	_	_	_
-17	year	year	NOUN	NN	_	12	tmod	_	_	_	P	_	_
-18	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+3	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	USD	usd	NOUN	NNP	_	1	tmod	_	_	_	P	_	_
+5	90000	90000	OTHER	CD	_	4	num	_	_	_	_	_	_
+6	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

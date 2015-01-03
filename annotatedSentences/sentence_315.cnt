@@ -1,3 +1,8 @@
-1	agree	agree	VERB	VBP	_	0	ROOT	_	_	+/-NoF	P	P	P
+1	need	need	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
 2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	days	days	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+5	hours	hours	NOUN	NNS	_	4	nn	_	_	_	P	_	_
+6	8	8	OTHER	CD	_	5	num	_	_	_	_	_	_
+7	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

@@ -1,2 +1,19 @@
-1	90000	90000	OTHER	CD	_	0	ROOT	_	_	_	_	_	_
+1	want	want	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	hours	hours	NOUN	NNS	_	1	dobj	_	_	+/?Fin	P	P	P
+4	9	9	OTHER	CD	_	3	num	_	_	_	_	_	_
+5	,	,	PUNCTUATION	,	_	3	punct	_	_	_	_	_	_
+6	track	track	NOUN	NN	_	3	appos	_	_	_	P	_	_
+7	fast	fast	ADJECTIVE	JJ	_	6	amod	_	_	_	P	_	_
+8	promotion	promotion	NOUN	NN	_	6	nn	_	_	_	P	_	_
+9	,	,	PUNCTUATION	,	_	3	punct	_	_	_	_	_	_
+10	%	%	NOUN	NN	_	3	appos	_	_	_	P	_	_
+11	10	10	OTHER	CD	_	10	num	_	_	_	_	_	_
+12	,	,	PUNCTUATION	,	_	3	punct	_	_	_	_	_	_
+13	with	with	PREPOSITION	IN	_	3	prep	_	_	_	_	_	_
+14	car	car	NOUN	NN	_	13	pobj	_	_	_	P	_	_
+15	,	,	PUNCTUATION	,	_	3	punct	_	_	_	_	_	_
+16	usd	usd	NOUN	NN	_	3	appos	_	_	_	P	_	_
+17	90000	90000	OTHER	CD	_	16	num	_	_	_	_	_	_
+18	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

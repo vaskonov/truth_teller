@@ -1,12 +1,3 @@
-1	hours	hours	NOUN	NNS	_	0	ROOT	_	_	_	P	_	_
-2	10	10	OTHER	CD	_	1	num	_	_	_	_	_	_
-3	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-4	usd	usd	NOUN	NN	_	1	appos	_	_	_	P	_	_
-5	90000	90000	OTHER	CD	_	4	num	_	_	_	_	_	_
-6	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-7	promotion	promotion	NOUN	NN	_	1	appos	_	_	_	P	_	_
-8	fast	fast	ADJECTIVE	JJ	_	7	amod	_	_	_	P	_	_
-9	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-10	car	car	NOUN	NN	_	1	appos	_	_	_	P	_	_
-11	leased	lease	VERB	VBN	_	10	amod	_	_	+/-NoF	P	U	U
+1	programmer	programmer	NOUN	NN	_	0	ROOT	_	_	_	P	_	_
+2	90000	90000	OTHER	CD	_	1	num	_	_	_	_	_	_
 

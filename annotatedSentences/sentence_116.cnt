@@ -1,13 +1,13 @@
-1	im	im	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
-2	paid	pay	VERB	VBN	_	1	partmod	_	_	?/-	P	P	P
-3	getting	get	VERB	VBG	_	2	dep	_	_	+/-NoF	P	U	U
-4	90000	90000	OTHER	CD	_	2	dobj	_	_	_	_	_	_
-5	think	think	VERB	VBP	_	1	dep	_	_	?/-	P	U	U
-6	i	i	PRONOUN	PRP	_	5	nsubj	_	_	_	_	_	_
-7	deserve	deserve	VERB	VB	_	5	ccomp	_	_	+/?Fin	P	U	U
-8	i	i	PRONOUN	PRP	_	7	nsubj	_	_	_	_	_	_
-9	should	should	VERB	MD	_	7	aux	_	_	+/?Fin	P	U	U
-10	manager	manager	NOUN	NN	_	7	dobj	_	_	_	P	_	_
-11	the	the	DETERMINER	DT	_	10	det	_	_	_	_	_	_
-12	project	project	NOUN	NN	_	10	nn	_	_	_	P	_	_
+1	accept	accept	VERB	VB	_	0	ROOT	_	_	+/+Fin&+/-NoF	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	manager	manager	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+5	project	project	NOUN	NN	_	4	nn	_	_	_	P	_	_
+6	and	and	PREPOSITION	CC	_	4	cc	_	_	_	_	_	_
+7	hours	hours	NOUN	NNS	_	4	conj	_	_	_	P	_	_
+8	10	10	OTHER	CD	_	7	num	_	_	_	_	_	_
+9	,	,	PUNCTUATION	,	_	4	punct	_	_	_	_	_	_
+10	and	and	PREPOSITION	CC	_	4	cc	_	_	_	_	_	_
+11	%	%	NOUN	NN	_	4	conj	_	_	_	P	_	_
+12	10	10	OTHER	CD	_	11	num	_	_	_	_	_	_
 

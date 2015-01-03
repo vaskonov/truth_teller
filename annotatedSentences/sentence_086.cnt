@@ -1,10 +1,13 @@
-1	offer	offer	NOUN	NN	_	0	ROOT	_	_	?/?	U	P	U
-2	that	that	DETERMINER	DT	_	1	det	_	_	_	_	_	_
-3	with	with	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
-4	track	track	NOUN	NN	_	3	pobj	_	_	_	P	_	_
-5	car	car	NOUN	NN	_	4	nn	_	_	_	P	_	_
-6	and	and	PREPOSITION	CC	_	5	cc	_	_	_	_	_	_
-7	slow	slow	ADJECTIVE	JJ	_	5	conj	_	_	_	P	_	_
-8	promotion	promotion	NOUN	NN	_	4	nn	_	_	_	P	_	_
-9	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	work	work	NOUN	NN	_	0	ROOT	_	_	+/?Fin	U	P	U
+2	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+3	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+4	as	as	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+5	manager	manager	NOUN	NN	_	4	pobj	_	_	_	P	_	_
+6	a	a	DETERMINER	DT	_	5	det	_	_	_	_	_	_
+7	team	team	NOUN	NN	_	5	nn	_	_	_	P	_	_
+8	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+9	work10	work10	VERB	VB	_	1	ccomp	_	_	+/?Fin	P	U	U
+10	i	i	PRONOUN	PRP	_	9	nsubj	_	_	_	_	_	_
+11	will	will	VERB	MD	_	9	aux	_	_	+/?Fin	P	U	U
+12	hours	hours	NOUN	NNS	_	9	dobj	_	_	_	P	_	_
 
