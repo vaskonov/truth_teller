@@ -1,3 +1,8 @@
-1	hours	hours	NOUN	NNS	_	0	ROOT	_	_	_	P	_	_
-2	9	9	OTHER	CD	_	1	num	_	_	_	_	_	_
+1	like	like	VERB	VB	_	0	ROOT	_	_	+/+Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	pension	pension	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+5	a	a	DETERMINER	DT	_	4	det	_	_	_	_	_	_
+6	%	%	NOUN	NN	_	4	amod	_	_	_	P	_	_
+7	20	20	OTHER	CD	_	6	number	_	_	_	_	_	_
 

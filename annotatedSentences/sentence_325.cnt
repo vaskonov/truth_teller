@@ -1,2 +1,4 @@
-1	okay	okay	ADJECTIVE	JJ	_	0	ROOT	_	_	_	P	_	_
+1	pension	pension	NOUN	NN	_	0	ROOT	_	_	_	P	_	_
+2	%	%	NOUN	NN	_	1	amod	_	_	_	P	_	_
+3	10	10	OTHER	CD	_	2	number	_	_	_	_	_	_
 

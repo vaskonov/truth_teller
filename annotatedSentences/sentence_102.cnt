@@ -1,8 +1,4 @@
-1	work	work	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
-2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
-4	days	days	NOUN	NNS	_	1	tmod	_	_	_	P	_	_
-5	9	9	OTHER	CD	_	4	num	_	_	_	_	_	_
-6	hour	hour	NOUN	NN	_	4	nn	_	_	_	P	_	_
-7	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	hours	hours	NOUN	NNS	_	0	ROOT	_	_	_	P	_	_
+2	9	9	OTHER	CD	_	1	num	_	_	_	_	_	_
+3	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

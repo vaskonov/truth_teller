@@ -1,13 +1,4 @@
-1	like	like	VERB	VB	_	0	ROOT	_	_	+/+Fin	P	P	P
-2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
-4	salary	salary	NOUN	NN	_	1	dobj	_	_	_	P	_	_
-5	a	a	DETERMINER	DT	_	4	det	_	_	_	_	_	_
-6	higher	higher	ADJECTIVE	JJR	_	4	amod	_	_	_	P	_	_
-7	or	or	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
-8	accept	accept	VERB	VB	_	1	conj	_	_	+/+Fin&+/-NoF	N	P	N
-9	i	i	PRONOUN	PRP	_	8	nsubj	_	_	_	_	_	_
-10	will	will	VERB	MD	_	8	aux	_	_	+/?Fin	P	P	P
-11	not	not	ADVERB	RB	_	8	neg	_	_	_	_	_	_
-12	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	make	make	VERB	VB	_	0	ROOT	_	_	+/?NoF	P	P	P
+2	offer	offer	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+3	another	another	DETERMINER	DT	_	2	det	_	_	_	_	_	_
 

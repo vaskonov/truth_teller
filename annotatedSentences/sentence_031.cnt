@@ -1,4 +1,7 @@
-1	with	with	PREPOSITION	IN	_	0	ROOT	_	_	_	_	_	_
-2	car	car	NOUN	NN	_	1	pobj	_	_	_	P	_	_
-3	leased	lease	VERB	VBN	_	2	amod	_	_	+/-NoF	P	U	U
+1	allow	allow	VERB	VB	_	0	ROOT	_	_	?/-	P	P	P
+2	manager	manager	NOUN	NN	_	1	xcomp	_	_	+/?Fin	P	U	U
+3	me	me	PRONOUN	PRP	_	2	nsubj	_	_	_	_	_	_
+4	to	to	OTHER	TO	_	2	aux	_	_	_	_	_	_
+5	be	be	VERB	VB	_	2	cop	_	_	+/-	P	U	U
+6	project	project	NOUN	NN	_	2	nn	_	_	_	P	_	_
 
