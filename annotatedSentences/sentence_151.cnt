@@ -1,0 +1,7 @@
+1	offer	offer	VERB	VB	_	0	ROOT	_	_	?/?	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	you	you	PRONOUN	PRP	_	1	iobj	_	_	_	_	_	_
+5	hours	hours	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+6	9	9	OTHER	CD	_	5	num	_	_	_	_	_	_
+

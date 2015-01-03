@@ -1,0 +1,16 @@
+1	offer	offer	VERB	VB	_	0	ROOT	_	_	?/?	P	P	P
+2	we	we	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	pension	pension	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+5	the	the	DETERMINER	DT	_	4	det	_	_	_	_	_	_
+6	%	%	NOUN	NN	_	4	amod	_	_	_	P	_	_
+7	20	20	OTHER	CD	_	6	number	_	_	_	_	_	_
+8	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+9	but	but	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+10	means	mean	VERB	VBZ	_	1	conj	_	_	?/+	N	P	N
+11	that	that	DETERMINER	DT	_	10	nsubj	_	_	_	_	_	_
+12	allowance	allowance	NOUN	NN	_	10	dobj	_	_	_	P	_	_
+13	no	no	DETERMINER	DT	_	12	det	_	_	_	_	_	_
+14	car	car	NOUN	NN	_	12	nn	_	_	_	P	_	_
+15	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

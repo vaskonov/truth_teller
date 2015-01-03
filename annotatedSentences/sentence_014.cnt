@@ -1,0 +1,6 @@
+1	fine	fine	ADJECTIVE	JJ	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	manager	manager	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+3	project	project	NOUN	NN	_	2	nn	_	_	_	P	_	_
+4	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+5	be	be	VERB	VB	_	1	cop	_	_	+/-	P	P	P
+

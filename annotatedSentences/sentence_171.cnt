@@ -1,0 +1,10 @@
+1	offer	offer	VERB	VBP	_	0	ROOT	_	_	?/?	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	you	you	PRONOUN	PRP	_	1	iobj	_	_	+/?Fin	P	P	P
+4	hours	hours	NOUN	NNS	_	3	dobj	_	_	_	P	_	_
+5	10	10	OTHER	CD	_	4	num	_	_	_	_	_	_
+6	for	for	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+7	position	position	NOUN	NN	_	6	pobj	_	_	_	P	_	_
+8	the	the	DETERMINER	DT	_	7	det	_	_	_	_	_	_
+9	programmer	programmer	NOUN	NN	_	7	nn	_	_	_	P	_	_
+

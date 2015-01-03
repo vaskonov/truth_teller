@@ -1,0 +1,9 @@
+1	think	think	VERB	VBP	_	0	ROOT	_	_	?/-	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	programmer	programmer	NOUN	NN	_	1	ccomp	_	_	+/?Fin	P	U	U
+4	you	you	PRONOUN	PRP	_	3	nsubj	_	_	_	_	_	_
+5	should	should	VERB	MD	_	3	aux	_	_	+/?Fin	P	U	U
+6	be	be	VERB	VB	_	3	cop	_	_	+/-	P	U	U
+7	a	a	DETERMINER	DT	_	3	det	_	_	_	_	_	_
+8	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

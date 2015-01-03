@@ -1,0 +1,9 @@
+1	have	have	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	you	you	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	nis	ni	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+5	7000	7000	OTHER	CD	_	4	num	_	_	_	_	_	_
+6	for	for	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+7	car	car	NOUN	NN	_	6	pobj	_	_	_	P	_	_
+8	leased	lease	VERB	VBN	_	7	amod	_	_	+/-NoF	P	U	U
+

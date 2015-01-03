@@ -1,0 +1,10 @@
+1	have	have	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	you	you	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	work	work	VERB	VB	_	1	xcomp	_	_	+/?Fin	P	U	U
+5	to	to	OTHER	TO	_	4	aux	_	_	_	_	_	_
+6	for	for	PREPOSITION	IN	_	4	prep	_	_	_	_	_	_
+7	hours	hours	NOUN	NNS	_	6	pobj	_	_	_	P	_	_
+8	10	10	OTHER	CD	_	7	num	_	_	_	_	_	_
+9	you	you	PRONOUN	PRP	_	4	xsubj	_	_	_	_	_	_
+

@@ -1,0 +1,6 @@
+1	possible	possible	ADJECTIVE	JJ	_	0	ROOT	_	_	+/?Fin	N	P	N
+2	car	car	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+3	no	no	DETERMINER	DT	_	2	det	_	_	_	_	_	_
+4	leased	lease	VERB	VBN	_	2	amod	_	_	+/-NoF	P	U	U
+5	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+

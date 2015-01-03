@@ -1,0 +1,15 @@
+1	allows	allow	VERB	VBZ	_	0	ROOT	_	_	?/-	P	P	P
+2	policy	policy	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+3	our	our	PRONOUN	PRP$	_	2	poss	_	_	_	_	_	_
+4	for	for	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+5	%	%	NOUN	NN	_	4	pobj	_	_	_	P	_	_
+6	-10	-10	OTHER	CD	_	5	num	_	_	_	_	_	_
+7	0	0	OTHER	CD	_	6	number	_	_	_	_	_	_
+8	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+9	offering	offer	VERB	VBG	_	1	ccomp	_	_	?/?	P	U	U
+10	i	i	PRONOUN	PRP	_	9	nsubj	_	_	_	_	_	_
+11	am	be	VERB	VBP	_	9	aux	_	_	+/-	P	U	U
+12	%	%	NOUN	NN	_	9	dobj	_	_	_	P	_	_
+13	the	the	DETERMINER	DT	_	12	det	_	_	_	_	_	_
+14	10	10	OTHER	CD	_	12	num	_	_	_	_	_	_
+

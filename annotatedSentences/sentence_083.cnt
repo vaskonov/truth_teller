@@ -1,0 +1,15 @@
+1	do	do	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	hours	hours	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+5	8	8	OTHER	CD	_	4	num	_	_	_	_	_	_
+6	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+7	but	but	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+8	work	work	VERB	VBP	_	1	conj	_	_	+/?Fin	P	P	P
+9	only	only	ADVERB	RB	_	8	advmod	_	_	_	_	_	_
+10	if	if	PREPOSITION	IN	_	8	dep	_	_	_	_	_	_
+11	you	you	PRONOUN	PRP	_	8	nsubj	_	_	_	_	_	_
+12	as	as	PREPOSITION	IN	_	8	prep	_	_	_	_	_	_
+13	programmer	programmer	NOUN	NN	_	12	pobj	_	_	_	P	_	_
+14	a	a	DETERMINER	DT	_	13	det	_	_	_	_	_	_
+

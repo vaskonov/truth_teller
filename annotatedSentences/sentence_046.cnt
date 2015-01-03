@@ -1,0 +1,6 @@
+1	offer	offer	VERB	VB	_	0	ROOT	_	_	?/?	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	only	only	ADVERB	RB	_	1	advmod	_	_	_	_	_	_
+5	programmer	programmer	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+

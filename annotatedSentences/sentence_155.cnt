@@ -1,0 +1,16 @@
+1	john	john	ADJECTIVE	JJ	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	hi	hi	NOUN	NNS	_	1	nsubj	_	_	_	P	_	_
+3	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+4	name	name	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+5	my	my	PRONOUN	PRP$	_	4	poss	_	_	_	_	_	_
+6	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+7	and	and	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+8	employer	employer	NOUN	NN	_	1	conj	_	_	+/?Fin	U	P	U
+9	i	i	PRONOUN	PRP	_	8	nsubj	_	_	_	_	_	_
+10	will	will	VERB	MD	_	8	aux	_	_	+/?Fin	P	P	P
+11	potentially	potentially	ADVERB	RB	_	8	advmod	_	_	_	_	_	_
+12	be	be	VERB	VB	_	8	cop	_	_	+/-	P	P	P
+13	your	your	PRONOUN	PRP$	_	8	poss	_	_	_	_	_	_
+14	new	new	ADJECTIVE	JJ	_	8	amod	_	_	_	P	_	_
+15	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

@@ -1,0 +1,12 @@
+1	possible	possible	ADJECTIVE	JJ	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	car	car	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+3	leased	lease	VERB	VBN	_	2	amod	_	_	+/-NoF	P	U	U
+4	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+5	only	only	ADVERB	RB	_	1	advmod	_	_	_	_	_	_
+6	with	with	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+7	programmer	programmer	NOUN	NN	_	6	pobj	_	_	_	P	_	_
+8	and	and	PREPOSITION	CC	_	7	cc	_	_	_	_	_	_
+9	pension	pension	NOUN	NN	_	7	conj	_	_	_	P	_	_
+10	%	%	NOUN	NN	_	9	amod	_	_	_	P	_	_
+11	10	10	OTHER	CD	_	10	num	_	_	_	_	_	_
+

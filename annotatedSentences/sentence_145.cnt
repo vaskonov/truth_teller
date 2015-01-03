@@ -1,0 +1,8 @@
+1	offer	offer	VERB	VB	_	0	ROOT	_	_	?/?	N	P	N
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
+5	car	car	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+6	a	a	DETERMINER	DT	_	5	det	_	_	_	_	_	_
+7	leased	lease	VERB	VBN	_	5	amod	_	_	+/-NoF	P	U	U
+

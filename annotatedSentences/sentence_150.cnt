@@ -1,0 +1,19 @@
+1	car	car	NOUN	NN	_	0	ROOT	_	_	+/?Fin	N	P	N
+2	there	there	DETERMINER	EX	_	1	expl	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	be	be	VERB	VB	_	1	cop	_	_	+/-	P	P	P
+5	no	no	DETERMINER	DT	_	1	det	_	_	_	_	_	_
+6	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+7	recieve	recieve	VERB	VB	_	1	ccomp	_	_	+/?Fin	P	U	U
+8	you	you	PRONOUN	PRP	_	7	nsubj	_	_	_	_	_	_
+9	will	will	VERB	MD	_	7	aux	_	_	+/?Fin	P	U	U
+10	only	only	ADVERB	RB	_	7	advmod	_	_	_	_	_	_
+11	car	car	NOUN	NN	_	7	dobj	_	_	_	P	_	_
+12	a	a	DETERMINER	DT	_	11	det	_	_	_	_	_	_
+13	work	work	VERB	VBP	_	1	advcl	_	_	+/?Fin	P	U	U
+14	if	if	PREPOSITION	IN	_	13	mark	_	_	_	_	_	_
+15	you	you	PRONOUN	PRP	_	13	nsubj	_	_	_	_	_	_
+16	days	days	NOUN	NNS	_	13	dobj	_	_	_	P	_	_
+17	hour	hour	NOUN	NN	_	16	nn	_	_	_	P	_	_
+18	10	10	OTHER	CD	_	16	num	_	_	_	_	_	_
+

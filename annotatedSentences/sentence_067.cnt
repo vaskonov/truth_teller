@@ -1,0 +1,18 @@
+1	offer	offer	VERB	VB	_	0	ROOT	_	_	?/?	N	P	N
+2	hours	hours	NOUN	NNS	_	1	nsubj	_	_	_	P	_	_
+3	9	9	OTHER	CD	_	2	num	_	_	_	_	_	_
+4	,	,	PUNCTUATION	,	_	2	punct	_	_	_	_	_	_
+5	and	and	PREPOSITION	CC	_	2	cc	_	_	_	_	_	_
+6	compromise	compromise	NOUN	NN	_	2	conj	_	_	+/?Fin	P	_	U
+7	that	that	DETERMINER	DT	_	6	nsubj	_	_	_	_	_	_
+8	is	be	VERB	VBZ	_	6	cop	_	_	+/-	P	_	U
+9	a	a	DETERMINER	DT	_	6	det	_	_	_	_	_	_
+10	good	good	ADJECTIVE	JJ	_	6	amod	_	_	_	P	_	_
+11	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+12	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+13	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+14	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
+15	other	other	ADJECTIVE	JJ	_	1	dobj	_	_	+/?Fin	P	U	U
+16	you	you	PRONOUN	PRP	_	15	nsubj	_	_	_	_	_	_
+17	any	any	DETERMINER	DT	_	15	dep	_	_	_	_	_	_
+

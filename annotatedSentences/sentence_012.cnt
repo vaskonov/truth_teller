@@ -1,0 +1,12 @@
+1	willing	willing	ADJECTIVE	JJ	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	am	be	VERB	VBP	_	1	cop	_	_	+/-	P	P	P
+4	compromise	compromise	VERB	VB	_	1	xcomp	_	_	+/?Fin	P	U	U
+5	to	to	OTHER	TO	_	4	aux	_	_	_	_	_	_
+6	on	on	PREPOSITION	IN	_	4	prep	_	_	_	_	_	_
+7	fund	fund	NOUN	NN	_	6	pobj	_	_	_	P	_	_
+8	a	a	DETERMINER	DT	_	7	det	_	_	_	_	_	_
+9	%	%	NOUN	NN	_	7	amod	_	_	_	P	_	_
+10	20	20	OTHER	CD	_	9	number	_	_	_	_	_	_
+11	pension	pension	NOUN	NN	_	7	nn	_	_	_	P	_	_
+

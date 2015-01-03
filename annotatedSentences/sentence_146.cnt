@@ -1,0 +1,8 @@
+1	agreement	agreement	NOUN	NN	_	0	ROOT	_	_	+/?Fin	N	P	N
+2	there	there	DETERMINER	EX	_	1	expl	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	be	be	VERB	VB	_	1	cop	_	_	+/-	P	P	P
+5	no	no	DETERMINER	DT	_	1	det	_	_	_	_	_	_
+6	for	for	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+7	car	car	NOUN	NN	_	6	pobj	_	_	_	P	_	_
+

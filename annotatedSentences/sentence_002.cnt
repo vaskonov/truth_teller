@@ -1,0 +1,7 @@
+1	give	give	VERB	VB	_	0	ROOT	_	_	+/?Fin	N	P	N
+2	we	we	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
+5	funds	funds	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+6	pension	pension	NOUN	NN	_	5	nn	_	_	_	P	_	_
+

@@ -1,0 +1,21 @@
+1	let	let	VERB	VB	_	0	ROOT	_	_	+/-NoF	P	P	P
+2	okay	okay	ADJECTIVE	JJ	_	1	nsubj	_	_	_	P	_	_
+3	compromise	compromise	VERB	VB	_	1	ccomp	_	_	+/?Fin	P	U	U
+4	us	us	PRONOUN	PRP	_	3	nsubj	_	_	_	_	_	_
+5	on	on	PREPOSITION	IN	_	3	prep	_	_	_	_	_	_
+6	hours	hours	NOUN	NNS	_	5	pobj	_	_	+/?Fin	P	U	U
+7	8	8	OTHER	CD	_	6	num	_	_	_	_	_	_
+8	day	day	NOUN	NN	_	6	npadvmod	_	_	_	P	_	_
+9	a	a	DETERMINER	DT	_	8	det	_	_	_	_	_	_
+10	.	.	PUNCTUATION	.	_	3	punct	_	_	_	_	_	_
+11	want	want	VERB	VB	_	3	ccomp	_	_	+/?Fin	N	U	U
+12	i	i	PRONOUN	PRP	_	11	nsubj	_	_	_	_	_	_
+13	do	do	VERB	VBP	_	11	aux	_	_	+/?Fin	P	U	U
+14	not	not	ADVERB	RB	_	11	neg	_	_	_	_	_	_
+15	lose	lose	VERB	VB	_	11	xcomp	_	_	+/+	P	U	U
+16	to	to	OTHER	TO	_	15	aux	_	_	_	_	_	_
+17	points	point	NOUN	NNS	_	15	dobj	_	_	_	P	_	_
+18	more	more	ADJECTIVE	JJR	_	17	amod	_	_	_	P	_	_
+19	i	i	PRONOUN	PRP	_	15	xsubj	_	_	_	_	_	_
+20	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+

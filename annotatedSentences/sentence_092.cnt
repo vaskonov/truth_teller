@@ -1,0 +1,13 @@
+1	start	start	VERB	VB	_	0	ROOT	_	_	+/-NoF	P	P	P
+2	we	we	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	at	at	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+5	12000	12000	OTHER	CD	_	4	pobj	_	_	_	_	_	_
+6	and	and	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+7	work	work	VERB	VB	_	1	conj	_	_	+/?Fin	P	P	P
+8	way	way	NOUN	NN	_	7	dobj	_	_	+/?Fin	P	P	P
+9	your	your	PRONOUN	PRP$	_	8	poss	_	_	_	_	_	_
+10	20000	20000	OTHER	CD	_	8	infmod	_	_	_	_	_	_
+11	up	up	PREPOSITION	IN	_	10	quantmod	_	_	_	_	_	_
+12	to	to	OTHER	TO	_	10	dep	_	_	_	_	_	_
+

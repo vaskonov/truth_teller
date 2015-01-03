@@ -1,0 +1,8 @@
+1	nis	ni	NOUN	NN	_	0	ROOT	_	_	_	P	_	_
+2	12000	12000	OTHER	CD	_	1	num	_	_	_	_	_	_
+3	and	and	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+4	agreement	agreement	NOUN	NN	_	1	conj	_	_	+/?Fin	N	_	U
+5	no	no	DETERMINER	DT	_	4	det	_	_	_	_	_	_
+6	for	for	PREPOSITION	IN	_	4	prep	_	_	_	_	_	_
+7	car	car	NOUN	NN	_	6	pobj	_	_	_	P	_	_
+

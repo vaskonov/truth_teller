@@ -1,0 +1,7 @@
+1	compromising	compromise	VERB	VBG	_	0	ROOT	_	_	+/?Fin	N	P	N
+2	you	you	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	are	be	VERB	VBP	_	1	aux	_	_	+/-	P	P	P
+4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
+5	on	on	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+6	anything	anything	NOUN	NN	_	5	pobj	_	_	_	P	_	_
+

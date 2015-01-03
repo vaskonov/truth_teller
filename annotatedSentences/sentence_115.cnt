@@ -1,0 +1,4 @@
+1	car	car	NOUN	NN	_	0	ROOT	_	_	_	N	_	_
+2	no	no	DETERMINER	DT	_	1	det	_	_	_	_	_	_
+3	leased	lease	VERB	VBN	_	1	amod	_	_	+/-NoF	P	U	U
+

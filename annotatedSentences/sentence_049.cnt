@@ -1,0 +1,10 @@
+1	wait	wait	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
+5	but	but	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
+6	losing	lose	VERB	VBG	_	1	conj	_	_	+/+Fin&-/+NoF	P	P	P
+7	you	you	PRONOUN	PRP	_	6	nsubj	_	_	_	_	_	_
+8	are	be	VERB	VBP	_	6	aux	_	_	+/-	P	P	P
+9	too	too	ADVERB	RB	_	6	advmod	_	_	_	_	_	_
+

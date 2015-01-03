@@ -1,0 +1,8 @@
+1	ready	ready	ADJECTIVE	JJ	_	0	ROOT	_	_	+/?NoF	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	am	be	VERB	VBP	_	1	cop	_	_	+/-	P	P	P
+4	give	give	VERB	VB	_	1	xcomp	_	_	+/?Fin	P	P	P
+5	to	to	OTHER	TO	_	4	aux	_	_	_	_	_	_
+6	you	you	PRONOUN	PRP	_	4	iobj	_	_	_	_	_	_
+7	12000	12000	OTHER	CD	_	4	dobj	_	_	_	_	_	_
+

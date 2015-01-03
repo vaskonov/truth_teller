@@ -1,0 +1,7 @@
+1	manager	manager	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	you	you	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	be	be	VERB	VB	_	1	cop	_	_	+/-	P	P	P
+5	a	a	DETERMINER	DT	_	1	det	_	_	_	_	_	_
+6	project	project	NOUN	NN	_	1	nn	_	_	_	P	_	_
+
