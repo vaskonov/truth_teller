@@ -1,2 +1,14 @@
-1	hi	hi	NOUN	NNS	_	0	ROOT	_	_	_	P	_	_
+1	need	need	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	work	work	VERB	VB	_	1	xcomp	_	_	+/?Fin	P	U	U
+4	to	to	OTHER	TO	_	3	aux	_	_	_	_	_	_
+5	for	for	PREPOSITION	IN	_	3	prep	_	_	_	_	_	_
+6	90000	90000	OTHER	CD	_	5	pobj	_	_	_	_	_	_
+7	i	i	PRONOUN	PRP	_	3	xsubj	_	_	_	_	_	_
+8	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+9	low	low	ADJECTIVE	JJ	_	1	ccomp	_	_	+/?Fin	P	P	P
+10	60000	60000	OTHER	CD	_	9	nsubj	_	_	_	_	_	_
+11	is	be	VERB	VBZ	_	9	cop	_	_	+/-	P	P	P
+12	too	too	ADVERB	RB	_	9	advmod	_	_	_	_	_	_
+13	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

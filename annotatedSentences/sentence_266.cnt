@@ -1,8 +1,9 @@
-1	like	like	VERB	VB	_	0	ROOT	_	_	+/+Fin	P	P	P
+1	want	want	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
 2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
-4	pension	pension	NOUN	NN	_	1	dobj	_	_	_	P	_	_
-5	%	%	NOUN	NN	_	4	amod	_	_	_	P	_	_
-6	20	20	OTHER	CD	_	5	number	_	_	_	_	_	_
-7	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+3	manager	manager	NOUN	NN	_	1	xcomp	_	_	+/?Fin	P	U	U
+4	to	to	OTHER	TO	_	3	aux	_	_	_	_	_	_
+5	be	be	VERB	VB	_	3	cop	_	_	+/-	P	U	U
+6	a	a	DETERMINER	DT	_	3	det	_	_	_	_	_	_
+7	team	team	NOUN	NN	_	3	nn	_	_	_	P	_	_
+8	i	i	PRONOUN	PRP	_	3	xsubj	_	_	_	_	_	_
 

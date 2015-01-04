@@ -1,4 +1,5 @@
-1	hours	hours	NOUN	NNS	_	0	ROOT	_	_	_	P	_	_
-2	okay	okay	ADJECTIVE	JJ	_	1	amod	_	_	_	P	_	_
-3	9	9	OTHER	CD	_	1	num	_	_	_	_	_	_
+1	agree	agree	VERB	VB	_	0	ROOT	_	_	+/-NoF	N	P	N
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	do	do	VERB	VBP	_	1	aux	_	_	+/?Fin	P	P	P
+4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
 

@@ -1,4 +1,7 @@
-1	with	with	PREPOSITION	IN	_	0	ROOT	_	_	_	_	_	_
-2	car	car	NOUN	NN	_	1	pobj	_	_	_	P	_	_
-3	leased	lease	VERB	VBN	_	2	amod	_	_	+/-NoF	P	U	U
+1	survive	survive	VERB	VB	_	0	ROOT	_	_	+/-NoF	N	P	N
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
+5	120000	120000	OTHER	CD	_	1	dobj	_	_	_	_	_	_
+6	no	no	DETERMINER	DT	_	5	det	_	_	_	_	_	_
 

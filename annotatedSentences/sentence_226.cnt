@@ -1,12 +1,8 @@
-1	good	good	ADJECTIVE	JJ	_	0	ROOT	_	_	+/+	P	P	P
-2	sounds	sound	NOUN	NNS	_	1	nsubj	_	_	_	P	_	_
-3	ready	ready	ADJECTIVE	JJ	_	1	dep	_	_	+/?NoF	P	P	P
-4	.	.	PUNCTUATION	.	_	3	punct	_	_	_	_	_	_
-5	i	i	PRONOUN	PRP	_	3	nsubj	_	_	_	_	_	_
-6	am	be	VERB	VBP	_	3	cop	_	_	+/-	P	P	P
-7	sign	sign	VERB	VB	_	3	xcomp	_	_	+/?Fin	P	P	P
-8	to	to	OTHER	TO	_	7	aux	_	_	_	_	_	_
-9	agreement	agreement	NOUN	NN	_	7	dobj	_	_	_	P	_	_
-10	the	the	DETERMINER	DT	_	9	det	_	_	_	_	_	_
-11	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	about	about	PREPOSITION	IN	_	0	ROOT	_	_	_	_	_	_
+2	what	what	PRONOUN	WP	_	1	dep	_	_	_	_	_	_
+3	programmer	programmer	NOUN	NN	_	1	dep	_	_	+/?Fin	P	U	U
+4	for	for	PREPOSITION	IN	_	3	prep	_	_	_	_	_	_
+5	usd	usd	NOUN	NN	_	4	pobj	_	_	_	P	_	_
+6	90000	90000	OTHER	CD	_	5	num	_	_	_	_	_	_
+7	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

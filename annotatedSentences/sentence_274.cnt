@@ -1,5 +1,5 @@
-1	usd	usd	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
-2	how	how	ADVERB	WRB	_	1	advmod	_	_	_	_	_	_
+1	acceptable	acceptable	ADJECTIVE	JJ	_	0	ROOT	_	_	+/+	P	P	P
+2	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
 3	90000	90000	OTHER	CD	_	1	num	_	_	_	_	_	_
-4	about	about	ADVERB	RB	_	3	quantmod	_	_	_	_	_	_
+4	be	be	VERB	VB	_	1	cop	_	_	+/-	P	P	P
 

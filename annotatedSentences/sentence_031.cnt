@@ -1,16 +1,3 @@
-1	accept	accept	VERB	VB	_	0	ROOT	_	_	+/+Fin&+/-NoF	P	P	P
-2	then	then	ADVERB	RB	_	1	advmod	_	_	_	_	_	_
-3	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-4	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
-5	hours	hours	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
-6	8	8	OTHER	CD	_	5	num	_	_	_	_	_	_
-7	,	,	PUNCTUATION	,	_	5	punct	_	_	_	_	_	_
-8	promotion	promotion	NOUN	NN	_	5	conj	_	_	_	P	_	_
-9	slow	slow	ADJECTIVE	JJ	_	8	amod	_	_	_	P	_	_
-10	,	,	PUNCTUATION	,	_	5	punct	_	_	_	_	_	_
-11	car	car	NOUN	NN	_	5	conj	_	_	_	P	_	_
-12	leased	lease	VERB	VBN	_	11	amod	_	_	+/-NoF	P	U	U
-13	and	and	PREPOSITION	CC	_	5	cc	_	_	_	_	_	_
-14	%	%	NOUN	NN	_	5	conj	_	_	_	P	_	_
-15	10	10	OTHER	CD	_	14	num	_	_	_	_	_	_
+1	car	car	NOUN	NN	_	0	ROOT	_	_	_	P	_	_
+2	leased	lease	VERB	VBN	_	1	amod	_	_	+/-NoF	P	U	U
 

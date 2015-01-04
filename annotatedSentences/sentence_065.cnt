@@ -1,5 +1,4 @@
-1	suggesting	suggest	VERB	VBG	_	0	ROOT	_	_	+/?Fin	P	P	P
-2	what	what	PRONOUN	WP	_	1	dobj	_	_	_	_	_	_
-3	are	be	VERB	VBP	_	1	aux	_	_	+/-	P	P	P
-4	you	you	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+1	suggest	suggest	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	90000	90000	OTHER	CD	_	1	dobj	_	_	_	_	_	_
 

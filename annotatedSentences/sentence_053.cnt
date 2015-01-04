@@ -1,20 +1,5 @@
-1	like	like	VERB	VB	_	0	ROOT	_	_	+/+Fin	P	P	P
-2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
-4	usd	usd	NOUN	NN	_	1	dobj	_	_	_	P	_	_
-5	120000	120000	OTHER	CD	_	4	num	_	_	_	_	_	_
-6	,	,	PUNCTUATION	,	_	4	punct	_	_	_	_	_	_
-7	manager	manager	NOUN	NN	_	4	conj	_	_	_	P	_	_
-8	project	project	NOUN	NN	_	7	nn	_	_	_	P	_	_
-9	,	,	PUNCTUATION	,	_	4	punct	_	_	_	_	_	_
-10	pension	pension	NOUN	NN	_	4	conj	_	_	_	P	_	_
-11	%	%	NOUN	NN	_	10	amod	_	_	_	P	_	_
-12	20	20	OTHER	CD	_	11	number	_	_	_	_	_	_
-13	,	,	PUNCTUATION	,	_	4	punct	_	_	_	_	_	_
-14	and	and	PREPOSITION	CC	_	4	cc	_	_	_	_	_	_
-15	day	day	NOUN	NN	_	4	conj	_	_	_	P	_	_
-16	working	work	VERB	VBG	_	15	nn	_	_	+/?Fin	P	U	U
-17	hour	hour	NOUN	NN	_	15	nn	_	_	_	P	_	_
-18	8	8	OTHER	CD	_	17	num	_	_	_	_	_	_
-19	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	pension	pension	NOUN	NN	_	0	ROOT	_	_	_	N	_	_
+2	no	no	DETERMINER	DT	_	1	det	_	_	_	_	_	_
+3	%	%	NOUN	NN	_	1	amod	_	_	_	P	_	_
+4	20	20	OTHER	CD	_	3	number	_	_	_	_	_	_
 

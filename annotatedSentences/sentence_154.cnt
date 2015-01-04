@@ -1,6 +1,4 @@
-1	offer	offer	NOUN	NN	_	0	ROOT	_	_	?/?	U	P	U
-2	what	what	PRONOUN	WP	_	1	nsubj	_	_	_	_	_	_
-3	's	's	VERB	VBZ	_	1	dep	_	_	+/?Fin	P	U	U
-4	your	your	PRONOUN	PRP$	_	1	poss	_	_	_	_	_	_
-5	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	with	with	PREPOSITION	IN	_	0	ROOT	_	_	_	_	_	_
+2	car	car	NOUN	NN	_	1	pobj	_	_	_	P	_	_
+3	leased	lease	VERB	VBN	_	2	amod	_	_	+/-NoF	P	U	U
 

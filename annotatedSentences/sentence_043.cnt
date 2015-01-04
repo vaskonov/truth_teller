@@ -1,7 +1,6 @@
-1	survive	survive	VERB	VB	_	0	ROOT	_	_	+/-NoF	N	P	N
+1	want	want	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
 2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
-4	not	not	ADVERB	RB	_	1	neg	_	_	_	_	_	_
-5	120000	120000	OTHER	CD	_	1	dobj	_	_	_	_	_	_
-6	no	no	DETERMINER	DT	_	5	det	_	_	_	_	_	_
+3	hours	hours	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+4	the	the	DETERMINER	DT	_	3	det	_	_	_	_	_	_
+5	9	9	OTHER	CD	_	3	num	_	_	_	_	_	_
 
