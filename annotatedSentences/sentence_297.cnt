@@ -1,4 +1,21 @@
-1	hours	hours	NOUN	NNS	_	0	ROOT	_	_	_	P	_	_
-2	10	10	OTHER	CD	_	1	num	_	_	_	_	_	_
-3	90000	90000	OTHER	CD	_	1	num	_	_	_	_	_	_
+1	fine	fine	ADJECTIVE	JJ	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	programmer	programmer	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+3	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+4	with	with	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+5	salary	salary	NOUN	NN	_	4	pobj	_	_	+/?Fin	P	P	P
+6	of	of	PREPOSITION	IN	_	5	prep	_	_	_	_	_	_
+7	usd	usd	NOUN	NN	_	6	pobj	_	_	_	P	_	_
+8	90000	90000	OTHER	CD	_	7	num	_	_	_	_	_	_
+9	,	,	PUNCTUATION	,	_	7	punct	_	_	_	_	_	_
+10	car	car	NOUN	NN	_	7	appos	_	_	_	P	_	_
+11	,	,	PUNCTUATION	,	_	7	punct	_	_	_	_	_	_
+12	pension	pension	NOUN	NN	_	7	appos	_	_	_	P	_	_
+13	%	%	NOUN	NN	_	12	amod	_	_	_	P	_	_
+14	20	20	OTHER	CD	_	13	number	_	_	_	_	_	_
+15	,	,	PUNCTUATION	,	_	7	punct	_	_	_	_	_	_
+16	promotion	promotion	NOUN	NN	_	7	appos	_	_	_	P	_	_
+17	fast	fast	ADJECTIVE	JJ	_	16	amod	_	_	_	P	_	_
+18	,	,	PUNCTUATION	,	_	7	punct	_	_	_	_	_	_
+19	hours	hours	NOUN	NNS	_	7	appos	_	_	_	P	_	_
+20	9	9	OTHER	CD	_	19	num	_	_	_	_	_	_
 

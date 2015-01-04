@@ -1,2 +1,7 @@
-1	okay	okay	ADJECTIVE	JJ	_	0	ROOT	_	_	_	P	_	_
+1	propose	propose	VERB	VB	_	0	ROOT	_	_	?/?	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	salary	salary	NOUN	NN	_	1	dobj	_	_	+/?Fin	P	U	U
+4	a	a	DETERMINER	DT	_	3	det	_	_	_	_	_	_
+5	of	of	PREPOSITION	IN	_	3	prep	_	_	_	_	_	_
+6	120000	120000	OTHER	CD	_	5	pobj	_	_	_	_	_	_
 

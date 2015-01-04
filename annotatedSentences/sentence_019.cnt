@@ -1,2 +1,6 @@
-1	okay	okay	ADJECTIVE	JJ	_	0	ROOT	_	_	_	P	_	_
+1	%	%	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	pension	pension	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
+3	okay	okay	ADJECTIVE	JJ	_	2	amod	_	_	_	P	_	_
+4	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
+5	20	20	OTHER	CD	_	1	num	_	_	_	_	_	_
 

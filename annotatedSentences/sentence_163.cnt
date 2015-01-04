@@ -1,4 +1,10 @@
-1	pension	pension	NOUN	NN	_	0	ROOT	_	_	_	P	_	_
-2	%	%	NOUN	NN	_	1	amod	_	_	_	P	_	_
-3	20	20	OTHER	CD	_	2	num	_	_	_	_	_	_
+1	do	do	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	hours	hours	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+5	10	10	OTHER	CD	_	4	num	_	_	_	_	_	_
+6	offer	offer	VERB	VBP	_	1	advcl	_	_	?/?	P	U	U
+7	if	if	PREPOSITION	IN	_	6	mark	_	_	_	_	_	_
+8	you	you	PRONOUN	PRP	_	6	nsubj	_	_	_	_	_	_
+9	90000	90000	OTHER	CD	_	6	dobj	_	_	_	_	_	_
 

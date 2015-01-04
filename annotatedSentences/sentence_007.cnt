@@ -1,13 +1,3 @@
-1	usd	usd	NOUN	NN	_	0	ROOT	_	_	_	P	_	_
-2	90000	90000	OTHER	CD	_	1	num	_	_	_	_	_	_
-3	what	what	PRONOUN	WP	_	2	quantmod	_	_	_	_	_	_
-4	about	about	PREPOSITION	IN	_	2	quantmod	_	_	_	_	_	_
-5	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-6	manager	manager	NOUN	NN	_	1	conj	_	_	_	P	_	_
-7	team	team	NOUN	NN	_	6	nn	_	_	_	P	_	_
-8	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-9	and	and	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
-10	car	car	NOUN	NN	_	1	conj	_	_	_	N	_	_
-11	no	no	DETERMINER	DT	_	10	det	_	_	_	_	_	_
-12	leased	lease	VERB	VBN	_	10	amod	_	_	+/-NoF	P	U	U
+1	hours	hours	NOUN	NNS	_	0	ROOT	_	_	_	P	_	_
+2	8	8	OTHER	CD	_	1	num	_	_	_	_	_	_
 

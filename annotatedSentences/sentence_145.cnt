@@ -1,4 +1,23 @@
-1	make	make	VERB	VB	_	0	ROOT	_	_	+/?NoF	P	P	P
-2	offer	offer	NOUN	NN	_	1	dobj	_	_	_	P	_	_
-3	another	another	DETERMINER	DT	_	2	det	_	_	_	_	_	_
+1	have	have	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	looking	look	VERB	VBG	_	1	partmod	_	_	+/+Fin	P	P	P
+3	im	im	NOUN	NN	_	2	aux	_	_	_	P	_	_
+4	manager	manager	NOUN	NN	_	2	xcomp	_	_	+/?Fin	P	P	P
+5	to	to	OTHER	TO	_	4	aux	_	_	_	_	_	_
+6	be	be	VERB	VB	_	4	cop	_	_	+/-	P	P	P
+7	the	the	DETERMINER	DT	_	4	det	_	_	_	_	_	_
+8	project	project	NOUN	NN	_	4	nn	_	_	_	P	_	_
+9	in	in	PREPOSITION	IN	_	1	rel	_	_	_	_	_	_
+10	which	which	DETERMINER	WDT	_	9	pobj	_	_	_	_	_	_
+11	case	case	NOUN	NN	_	1	nsubj	_	_	+/?NoF	P	U	U
+12	with	with	PREPOSITION	IN	_	11	prep	_	_	_	_	_	_
+13	experience	experience	NOUN	NN	_	12	pobj	_	_	_	P	_	_
+14	the	the	DETERMINER	DT	_	13	det	_	_	_	_	_	_
+15	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+16	looking	look	VERB	VBG	_	1	ccomp	_	_	+/+Fin	P	P	P
+17	am	be	VERB	VBP	_	16	aux	_	_	+/-	P	P	P
+18	i	i	PRONOUN	PRP	_	16	nsubj	_	_	_	_	_	_
+19	in	in	PREPOSITION	IN	_	16	prep	_	_	_	_	_	_
+20	range	range	NOUN	NN	_	19	pobj	_	_	_	P	P	P
+21	90000	90000	OTHER	CD	_	20	num	_	_	_	_	_	_
+22	the	the	DETERMINER	DT	_	20	det	_	_	_	_	_	_
 

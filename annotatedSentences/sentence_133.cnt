@@ -1,17 +1,9 @@
-1	accept	accept	VERB	VB	_	0	ROOT	_	_	+/+Fin&+/-NoF	P	P	P
-2	then	then	ADVERB	RB	_	1	advmod	_	_	_	_	_	_
-3	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-4	would	would	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
-5	USD	usd	NOUN	NNP	_	1	tmod	_	_	_	P	_	_
-6	60000	60000	OTHER	CD	_	5	num	_	_	_	_	_	_
-7	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-8	but	but	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
-9	ask	ask	VERB	VB	_	1	conj	_	_	+/?Fin	P	P	P
-10	would	would	VERB	MD	_	9	aux	_	_	+/?Fin	P	P	P
-11	for	for	PREPOSITION	IN	_	9	prep	_	_	_	_	_	_
-12	pension	pension	NOUN	NN	_	11	pobj	_	_	_	P	_	_
-13	a	a	DETERMINER	DT	_	12	det	_	_	_	_	_	_
-14	%	%	NOUN	NN	_	12	amod	_	_	_	P	_	_
-15	20	20	OTHER	CD	_	14	number	_	_	_	_	_	_
-16	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	need	need	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	manager	manager	NOUN	NN	_	1	xcomp	_	_	+/?Fin	P	P	P
+4	to	to	OTHER	TO	_	3	aux	_	_	_	_	_	_
+5	be	be	VERB	VB	_	3	cop	_	_	+/-	P	P	P
+6	the	the	DETERMINER	DT	_	3	det	_	_	_	_	_	_
+7	project	project	NOUN	NN	_	3	nn	_	_	_	P	_	_
+8	i	i	PRONOUN	PRP	_	3	xsubj	_	_	_	_	_	_
 
