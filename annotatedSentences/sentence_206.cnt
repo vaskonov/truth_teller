@@ -1,26 +1,2 @@
-1	usd	usd	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
-2	how	how	ADVERB	WRB	_	1	advmod	_	_	_	_	_	_
-3	90000	90000	OTHER	CD	_	1	num	_	_	_	_	_	_
-4	about	about	ADVERB	RB	_	3	quantmod	_	_	_	_	_	_
-5	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-6	manager	manager	NOUN	NN	_	1	conj	_	_	_	P	_	_
-7	team	team	NOUN	NN	_	6	nn	_	_	_	P	_	_
-8	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-9	track	track	NOUN	NN	_	1	conj	_	_	_	P	_	_
-10	fast	fast	ADJECTIVE	JJ	_	9	amod	_	_	_	P	_	_
-11	promotion	promotion	NOUN	NN	_	9	nn	_	_	_	P	_	_
-12	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-13	hours	hours	NOUN	NNS	_	1	appos	_	_	_	P	_	_
-14	9	9	OTHER	CD	_	13	num	_	_	_	_	_	_
-15	.	.	PUNCTUATION	.	_	13	punct	_	_	_	_	_	_
-16	and	and	PREPOSITION	CC	_	1	cc	_	_	_	_	_	_
-17	agreement	agreement	NOUN	NN	_	1	conj	_	_	+/?Fin	N	P	N
-18	no	no	DETERMINER	DT	_	17	det	_	_	_	_	_	_
-19	on	on	PREPOSITION	IN	_	17	prep	_	_	_	_	_	_
-20	car	car	NOUN	NN	_	19	pobj	_	_	_	P	_	_
-21	leased	lease	VERB	VBN	_	20	amod	_	_	+/-NoF	P	U	U
-22	and	and	PREPOSITION	CC	_	20	cc	_	_	_	_	_	_
-23	fund	fund	NOUN	NN	_	20	conj	_	_	_	P	_	_
-24	pension	pension	NOUN	NN	_	23	nn	_	_	_	P	_	_
-25	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	okay	okay	ADJECTIVE	JJ	_	0	ROOT	_	_	_	P	_	_
 

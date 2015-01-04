@@ -1,6 +1,14 @@
-1	%	%	NOUN	NN	_	0	ROOT	_	_	+/?Fin	P	P	P
-2	pension	pension	NOUN	NN	_	1	nsubj	_	_	_	P	_	_
-3	okay	okay	ADJECTIVE	JJ	_	2	amod	_	_	_	P	_	_
-4	is	be	VERB	VBZ	_	1	cop	_	_	+/-	P	P	P
-5	20	20	OTHER	CD	_	1	num	_	_	_	_	_	_
+1	want	want	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	let	let	VERB	VB	_	1	dep	_	_	+/-NoF	P	U	U
+4	hours	hours	NOUN	NNS	_	3	nsubj	_	_	+/?Fin	P	U	U
+5	8	8	OTHER	CD	_	4	num	_	_	_	_	_	_
+6	want	want	VERB	VBP	_	4	rcmod	_	_	+/?Fin	P	U	U
+7	you	you	PRONOUN	PRP	_	6	nsubj	_	_	_	_	_	_
+8	10	10	OTHER	CD	_	3	num	_	_	_	_	_	_
+9	settle	settle	VERB	VB	_	3	ccomp	_	_	+/?NoF	P	U	U
+10	us	us	PRONOUN	PRP	_	9	nsubj	_	_	_	_	_	_
+11	for	for	PREPOSITION	IN	_	9	prep	_	_	_	_	_	_
+12	hours	hours	NOUN	NNS	_	11	pobj	_	_	_	P	_	_
+13	9	9	OTHER	CD	_	12	num	_	_	_	_	_	_
 

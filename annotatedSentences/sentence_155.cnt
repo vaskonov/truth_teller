@@ -1,2 +1,15 @@
-1	90000	90000	OTHER	CD	_	0	ROOT	_	_	_	_	_	_
+1	do	do	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	can	can	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	60000	60000	OTHER	CD	_	1	dobj	_	_	_	_	_	_
+5	with	with	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+6	hours	hours	NOUN	NNS	_	5	pobj	_	_	_	P	_	_
+7	8	8	OTHER	CD	_	6	num	_	_	_	_	_	_
+8	and	and	PREPOSITION	CC	_	6	cc	_	_	_	_	_	_
+9	pensions	pension	NOUN	NNS	_	6	conj	_	_	_	P	_	_
+10	%	%	NOUN	NN	_	9	amod	_	_	_	P	_	_
+11	20	20	OTHER	CD	_	10	number	_	_	_	_	_	_
+12	with	with	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
+13	car	car	NOUN	NN	_	12	pobj	_	_	_	P	_	_
+14	.	.	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
 

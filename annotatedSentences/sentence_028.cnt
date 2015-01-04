@@ -1,10 +1,7 @@
-1	agreed	agree	VERB	VBD	_	0	ROOT	_	_	+/-NoF	U	P	U
-2	okay	okay	ADJECTIVE	JJ	_	1	dep	_	_	_	P	_	_
-3	,	,	PUNCTUATION	,	_	1	punct	_	_	_	_	_	_
-4	so	so	ADVERB	RB	_	1	advmod	_	_	_	_	_	_
-5	are	be	VERB	VBP	_	1	aux	_	_	+/-	P	P	P
-6	we	we	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-7	on	on	PREPOSITION	IN	_	1	prep	_	_	_	_	_	_
-8	all	all	DETERMINER	DT	_	7	pobj	_	_	_	_	_	_
-9	?	?	PUNCTUATION	.	_	1	punct	_	_	_	_	_	_
+1	want	want	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
+2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
+3	pension	pension	NOUN	NN	_	1	dobj	_	_	_	P	_	_
+4	a	a	DETERMINER	DT	_	3	det	_	_	_	_	_	_
+5	%	%	NOUN	NN	_	3	amod	_	_	_	P	_	_
+6	20	20	OTHER	CD	_	5	number	_	_	_	_	_	_
 

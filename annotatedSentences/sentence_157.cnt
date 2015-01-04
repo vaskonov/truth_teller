@@ -1,8 +1,10 @@
-1	want	want	VERB	VBP	_	0	ROOT	_	_	+/?Fin	P	P	P
+1	do	do	VERB	VB	_	0	ROOT	_	_	+/?Fin	P	P	P
 2	i	i	PRONOUN	PRP	_	1	nsubj	_	_	_	_	_	_
-3	schedule	schedule	NOUN	NN	_	1	dobj	_	_	+/?Fin	P	P	P
-4	daily	daily	ADJECTIVE	JJ	_	3	amod	_	_	_	P	_	_
-5	of	of	PREPOSITION	IN	_	3	prep	_	_	_	_	_	_
-6	hours	hours	NOUN	NNS	_	5	pobj	_	_	_	P	_	_
-7	8	8	OTHER	CD	_	6	num	_	_	_	_	_	_
+3	will	will	VERB	MD	_	1	aux	_	_	+/?Fin	P	P	P
+4	hours	hours	NOUN	NNS	_	1	dobj	_	_	_	P	_	_
+5	10	10	OTHER	CD	_	4	num	_	_	_	_	_	_
+6	offer	offer	VERB	VBP	_	1	advcl	_	_	?/?	P	U	U
+7	if	if	PREPOSITION	IN	_	6	mark	_	_	_	_	_	_
+8	you	you	PRONOUN	PRP	_	6	nsubj	_	_	_	_	_	_
+9	90000	90000	OTHER	CD	_	6	dobj	_	_	_	_	_	_
 
